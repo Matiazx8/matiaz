@@ -10,6 +10,21 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_chile-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal CDF Básico">
+    <display-name lang="es">CDF Basico (CL)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_basico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CDF HD">
+    <display-name lang="es">CDF HD (CL)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CDF Premium">
+    <display-name lang="es">CDF Premium (CL)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Chilevisión HD">
     <display-name lang="es">CHV (CL)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision_hd-mediano.png" />
@@ -427,10 +442,10 @@
   <programme start="20200112150000 -0300" stop="20200112163000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Especialista Responde</title>
   </programme>
-  <programme start="20200112163000 -0300" stop="20200112170000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200112163000 -0300" stop="20200112180000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Sesiones 24</title>
   </programme>
-  <programme start="20200112170000 -0300" stop="20200112223000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200112180000 -0300" stop="20200112223000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
   <programme start="20200112223000 -0300" stop="20200112233000 -0300" channel="Canal 24 Horas (Chile)">
@@ -567,6 +582,606 @@
   </programme>
   <programme start="20200115194500 -0300" stop="20200115200000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Estado Nacional en Duna</title>
+  </programme>
+  <programme start="20200111003000 -0300" stop="20200111013000 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200111013000 -0300" stop="20200111033000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200111033000 -0300" stop="20200111060000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200111060000 -0300" stop="20200111070000 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200111070000 -0300" stop="20200111085500 -0300" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200111085500 -0300" stop="20200111110500 -0300" channel="Canal CDF Básico">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200111110500 -0300" stop="20200111130000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200111130000 -0300" stop="20200111140000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200111140000 -0300" stop="20200111154000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Cobresal vs. Universidad de Chile</title>
+  </programme>
+  <programme start="20200111154000 -0300" stop="20200111172000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Universidad de Chile vs. Cobresal</title>
+  </programme>
+  <programme start="20200111172000 -0300" stop="20200111182000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200111182000 -0300" stop="20200111191500 -0300" channel="Canal CDF Básico">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200111191500 -0300" stop="20200111194000 -0300" channel="Canal CDF Básico">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200111194000 -0300" stop="20200111211000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Audax Italiano vs. Unión Española</title>
+  </programme>
+  <programme start="20200111211000 -0300" stop="20200111230000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Unión Española vs. Audax Italiano</title>
+  </programme>
+  <programme start="20200111230000 -0300" stop="20200111233000 -0300" channel="Canal CDF Básico">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200111233000 -0300" stop="20200111233000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200111233000 -0300" stop="20200112021000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200112021000 -0300" stop="20200112050000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Barnechea vs. Deportes Copiapó</title>
+  </programme>
+  <programme start="20200112050000 -0300" stop="20200112060000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200112060000 -0300" stop="20200112081000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200112081000 -0300" stop="20200112090500 -0300" channel="Canal CDF Básico">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112090500 -0300" stop="20200112100000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112100000 -0300" stop="20200112103000 -0300" channel="Canal CDF Básico">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112103000 -0300" stop="20200112121000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Universidad Católica vs. Unión La Calera</title>
+  </programme>
+  <programme start="20200112121000 -0300" stop="20200112135000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Universidad Católica vs. Unión La Calera</title>
+  </programme>
+  <programme start="20200112135000 -0300" stop="20200112142000 -0300" channel="Canal CDF Básico">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112142000 -0300" stop="20200112163000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200112163000 -0300" stop="20200112173000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112173000 -0300" stop="20200112191000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Colo Colo vs. Everton Cuartos</title>
+  </programme>
+  <programme start="20200112191000 -0300" stop="20200112205000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Everton vs. Colo Colo</title>
+  </programme>
+  <programme start="20200112205000 -0300" stop="20200112215000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200112215000 -0300" stop="20200113000000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200113000000 -0300" stop="20200113003000 -0300" channel="Canal CDF Básico">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200113003000 -0300" stop="20200113031000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Deportes Melipilla vs. Unión San Felipe</title>
+  </programme>
+  <programme start="20200113031000 -0300" stop="20200113060000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Deportes Temuco vs. Cobreloa</title>
+  </programme>
+  <programme start="20200113060000 -0300" stop="20200113074000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113074000 -0300" stop="20200113092000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113092000 -0300" stop="20200113110000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113110000 -0300" stop="20200113120000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20200113120000 -0300" stop="20200113130000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200113130000 -0300" stop="20200113150000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200113150000 -0300" stop="20200113160000 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113160000 -0300" stop="20200113180000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200113180000 -0300" stop="20200113190000 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113190000 -0300" stop="20200113210000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200113210000 -0300" stop="20200113225500 -0300" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200113225500 -0300" stop="20200114005500 -0300" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114005500 -0300" stop="20200114015000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200114015000 -0300" stop="20200114040500 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol Chileno Primera División</title>
+  </programme>
+  <programme start="20200114040500 -0300" stop="20200114060000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200114060000 -0300" stop="20200114065500 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114065500 -0300" stop="20200114075000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200114075000 -0300" stop="20200114093000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200114093000 -0300" stop="20200114111000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200114111000 -0300" stop="20200114130000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114130000 -0300" stop="20200114150000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200114150000 -0300" stop="20200114160000 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114160000 -0300" stop="20200114180000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114180000 -0300" stop="20200114190000 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114190000 -0300" stop="20200114210000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114210000 -0300" stop="20200114225000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114225000 -0300" stop="20200114225000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114225000 -0300" stop="20200115004000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200115004000 -0300" stop="20200115022000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200115022000 -0300" stop="20200115031500 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200115031500 -0300" stop="20200115041000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200115041000 -0300" stop="20200115060000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200115060000 -0300" stop="20200115065500 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200115065500 -0300" stop="20200115075000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200115075000 -0300" stop="20200115093000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200115093000 -0300" stop="20200115111000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200111003000 -0300" stop="20200111013000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200111013000 -0300" stop="20200111033000 -0300" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200111033000 -0300" stop="20200111060000 -0300" channel="Canal CDF HD">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200111060000 -0300" stop="20200111070000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200111070000 -0300" stop="20200111090000 -0300" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200111090000 -0300" stop="20200111111000 -0300" channel="Canal CDF HD">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200111111000 -0300" stop="20200111131000 -0300" channel="Canal CDF HD">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200111131000 -0300" stop="20200111141000 -0300" channel="Canal CDF HD">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200111141000 -0300" stop="20200111163000 -0300" channel="Canal CDF HD">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200111163000 -0300" stop="20200111173000 -0300" channel="Canal CDF HD">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200111173000 -0300" stop="20200111180000 -0300" channel="Canal CDF HD">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
+  </programme>
+  <programme start="20200111180000 -0300" stop="20200111201000 -0300" channel="Canal CDF HD">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200111201000 -0300" stop="20200111203000 -0300" channel="Canal CDF HD">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
+  </programme>
+  <programme start="20200111203000 -0300" stop="20200111230000 -0300" channel="Canal CDF HD">
+    <title lang="es">Barnechea vs. Deportes Copiapó</title>
+  </programme>
+  <programme start="20200111230000 -0300" stop="20200112000000 -0300" channel="Canal CDF HD">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112000000 -0300" stop="20200112003000 -0300" channel="Canal CDF HD">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112003000 -0300" stop="20200112031000 -0300" channel="Canal CDF HD">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200112031000 -0300" stop="20200112060000 -0300" channel="Canal CDF HD">
+    <title lang="es">Barnechea vs. Deportes Copiapó</title>
+  </programme>
+  <programme start="20200112060000 -0300" stop="20200112063000 -0300" channel="Canal CDF HD">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112063000 -0300" stop="20200112072500 -0300" channel="Canal CDF HD">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112072500 -0300" stop="20200112082000 -0300" channel="Canal CDF HD">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112082000 -0300" stop="20200112110000 -0300" channel="Canal CDF HD">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200112110000 -0300" stop="20200112135000 -0300" channel="Canal CDF HD">
+    <title lang="es">Barnechea vs. Deportes Copiapó</title>
+  </programme>
+  <programme start="20200112135000 -0300" stop="20200112142000 -0300" channel="Canal CDF HD">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112142000 -0300" stop="20200112163000 -0300" channel="Canal CDF HD">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200112163000 -0300" stop="20200112180000 -0300" channel="Canal CDF HD">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112180000 -0300" stop="20200112203000 -0300" channel="Canal CDF HD">
+    <title lang="es">Deportes Melipilla vs. Unión San Felipe</title>
+  </programme>
+  <programme start="20200112203000 -0300" stop="20200112230000 -0300" channel="Canal CDF HD">
+    <title lang="es">Deportes Temuco vs. Cobreloa</title>
+  </programme>
+  <programme start="20200112230000 -0300" stop="20200113003000 -0300" channel="Canal CDF HD">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200113003000 -0300" stop="20200113031000 -0300" channel="Canal CDF HD">
+    <title lang="es">Deportes Melipilla vs. Unión San Felipe</title>
+  </programme>
+  <programme start="20200113031000 -0300" stop="20200113060000 -0300" channel="Canal CDF HD">
+    <title lang="es">Deportes Temuco vs. Cobreloa</title>
+  </programme>
+  <programme start="20200113060000 -0300" stop="20200113074000 -0300" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113074000 -0300" stop="20200113092000 -0300" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113092000 -0300" stop="20200113110000 -0300" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113110000 -0300" stop="20200113120000 -0300" channel="Canal CDF HD">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200113120000 -0300" stop="20200113130000 -0300" channel="Canal CDF HD">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20200113130000 -0300" stop="20200113150000 -0300" channel="Canal CDF HD">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200113150000 -0300" stop="20200113180000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113180000 -0300" stop="20200113201000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113201000 -0300" stop="20200113203000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113203000 -0300" stop="20200113230000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113230000 -0300" stop="20200113230000 -0300" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200113230000 -0300" stop="20200114015000 -0300" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114015000 -0300" stop="20200114040500 -0300" channel="Canal CDF HD">
+    <title lang="es">Fútbol Chileno Primera División</title>
+  </programme>
+  <programme start="20200114040500 -0300" stop="20200114060000 -0300" channel="Canal CDF HD">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200114060000 -0300" stop="20200114065500 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114065500 -0300" stop="20200114075000 -0300" channel="Canal CDF HD">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200114075000 -0300" stop="20200114093000 -0300" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200114093000 -0300" stop="20200114111000 -0300" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200114111000 -0300" stop="20200114150000 -0300" channel="Canal CDF HD">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114150000 -0300" stop="20200114160000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114160000 -0300" stop="20200114180000 -0300" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114180000 -0300" stop="20200114190000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114190000 -0300" stop="20200114210000 -0300" channel="Canal CDF HD">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114210000 -0300" stop="20200114225000 -0300" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114225000 -0300" stop="20200115004000 -0300" channel="Canal CDF HD">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200115004000 -0300" stop="20200115022000 -0300" channel="Canal CDF HD">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200115022000 -0300" stop="20200115031500 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200115031500 -0300" stop="20200115041000 -0300" channel="Canal CDF HD">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200115041000 -0300" stop="20200115060000 -0300" channel="Canal CDF HD">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200115060000 -0300" stop="20200115065000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200115065000 -0300" stop="20200115075000 -0300" channel="Canal CDF HD">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200115160000 -0300" stop="20200115180000 -0300" channel="Canal CDF HD">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200115180000 -0300" stop="20200115203000 -0300" channel="Canal CDF HD">
+    <title lang="es">Las semifinales. Equipos por Confirmar</title>
+  </programme>
+  <programme start="20200111003000 -0300" stop="20200111013000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200111013000 -0300" stop="20200111033000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200111033000 -0300" stop="20200111060000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200111060000 -0300" stop="20200111070000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200111070000 -0300" stop="20200111090000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200111090000 -0300" stop="20200111111000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200111111000 -0300" stop="20200111131000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200111131000 -0300" stop="20200111141000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200111141000 -0300" stop="20200111163000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200111163000 -0300" stop="20200111173000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200111173000 -0300" stop="20200111180000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
+  </programme>
+  <programme start="20200111180000 -0300" stop="20200111201000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200111201000 -0300" stop="20200111203000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
+  </programme>
+  <programme start="20200111203000 -0300" stop="20200111230000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Barnechea vs. Deportes Copiapó</title>
+  </programme>
+  <programme start="20200111230000 -0300" stop="20200112000000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112000000 -0300" stop="20200112003000 -0300" channel="Canal CDF Premium">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112003000 -0300" stop="20200112031000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200112031000 -0300" stop="20200112060000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Barnechea vs. Deportes Copiapó</title>
+  </programme>
+  <programme start="20200112060000 -0300" stop="20200112063000 -0300" channel="Canal CDF Premium">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112063000 -0300" stop="20200112072500 -0300" channel="Canal CDF Premium">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112072500 -0300" stop="20200112082000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112082000 -0300" stop="20200112110000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  </programme>
+  <programme start="20200112110000 -0300" stop="20200112135000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Barnechea vs. Deportes Copiapó</title>
+  </programme>
+  <programme start="20200112135000 -0300" stop="20200112142000 -0300" channel="Canal CDF Premium">
+    <title lang="es">La Década</title>
+  </programme>
+  <programme start="20200112142000 -0300" stop="20200112163000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Baloncesto Liga ACB</title>
+  </programme>
+  <programme start="20200112163000 -0300" stop="20200112180000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200112180000 -0300" stop="20200112203000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Deportes Melipilla vs. Unión San Felipe</title>
+  </programme>
+  <programme start="20200112203000 -0300" stop="20200112230000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Deportes Temuco vs. Cobreloa</title>
+  </programme>
+  <programme start="20200112230000 -0300" stop="20200113003000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Sin barreras</title>
+  </programme>
+  <programme start="20200113003000 -0300" stop="20200113031000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Deportes Melipilla vs. Unión San Felipe</title>
+  </programme>
+  <programme start="20200113031000 -0300" stop="20200113060000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Deportes Temuco vs. Cobreloa</title>
+  </programme>
+  <programme start="20200113060000 -0300" stop="20200113074000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113074000 -0300" stop="20200113092000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113092000 -0300" stop="20200113110000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200113110000 -0300" stop="20200113120000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200113120000 -0300" stop="20200113130000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Resumen de la fecha</title>
+  </programme>
+  <programme start="20200113130000 -0300" stop="20200113150000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200113150000 -0300" stop="20200113180000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113180000 -0300" stop="20200113201000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113201000 -0300" stop="20200113203000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113203000 -0300" stop="20200113230000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200113230000 -0300" stop="20200113230000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200113230000 -0300" stop="20200114015000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114015000 -0300" stop="20200114040500 -0300" channel="Canal CDF Premium">
+    <title lang="es">Fútbol Chileno Primera División</title>
+  </programme>
+  <programme start="20200114040500 -0300" stop="20200114060000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200114060000 -0300" stop="20200114065500 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114065500 -0300" stop="20200114075000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200114075000 -0300" stop="20200114093000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200114093000 -0300" stop="20200114111000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200114111000 -0300" stop="20200114150000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114150000 -0300" stop="20200114160000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114160000 -0300" stop="20200114180000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114180000 -0300" stop="20200114190000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200114190000 -0300" stop="20200114210000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200114210000 -0300" stop="20200114225000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200114225000 -0300" stop="20200115004000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
+  </programme>
+  <programme start="20200115004000 -0300" stop="20200115022000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Fútbol clásico</title>
+  </programme>
+  <programme start="20200115022000 -0300" stop="20200115031500 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200115031500 -0300" stop="20200115041000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Goles Primera B</title>
+  </programme>
+  <programme start="20200115041000 -0300" stop="20200115060000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Pelota Parada</title>
+  </programme>
+  <programme start="20200115060000 -0300" stop="20200115065000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200115065000 -0300" stop="20200115075000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
+  </programme>
+  <programme start="20200115160000 -0300" stop="20200115180000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Abrazo de gol</title>
+  </programme>
+  <programme start="20200115180000 -0300" stop="20200115203000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Las semifinales. Equipos por Confirmar</title>
   </programme>
   <programme start="20200111010000 -0300" stop="20200111014500 -0300" channel="Canal Chilevisión HD">
     <title lang="es">La noche es nuestra</title>
@@ -917,8 +1532,11 @@
   <programme start="20200112160000 -0300" stop="20200112163000 -0300" channel="Canal CNN Chile">
     <title lang="es">Noticias Express</title>
   </programme>
-  <programme start="20200112163000 -0300" stop="20200112183000 -0300" channel="Canal CNN Chile">
+  <programme start="20200112163000 -0300" stop="20200112173000 -0300" channel="Canal CNN Chile">
     <title lang="es">Conciencia Inclusiva</title>
+  </programme>
+  <programme start="20200112173000 -0300" stop="20200112183000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Noticias Express</title>
   </programme>
   <programme start="20200112183000 -0300" stop="20200112193000 -0300" channel="Canal CNN Chile">
     <title lang="es">Empresas 2050</title>
