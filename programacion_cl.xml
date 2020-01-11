@@ -45,6 +45,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Mega HD">
+    <display-name lang="es">Mega (CL)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal TV Chile">
     <display-name lang="es">TV Chile (CL)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png" />
@@ -2206,6 +2211,177 @@
   </programme>
   <programme start="20200114043000 -0300" stop="20200114060000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20200111001000 -0300" stop="20200111010500 -0300" channel="Canal Mega HD">
+    <title lang="es">Genios de la carne</title>
+  </programme>
+  <programme start="20200111010500 -0300" stop="20200111025000 -0300" channel="Canal Mega HD">
+    <title lang="es">¿Y tú quién eres</title>
+  </programme>
+  <programme start="20200111025000 -0300" stop="20200111070000 -0300" channel="Canal Mega HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20200111070000 -0300" stop="20200111080000 -0300" channel="Canal Mega HD">
+    <title lang="es">Mundo Plus Vanguardia</title>
+  </programme>
+  <programme start="20200111080000 -0300" stop="20200111083000 -0300" channel="Canal Mega HD">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20200111083000 -0300" stop="20200111090000 -0300" channel="Canal Mega HD">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20200111090000 -0300" stop="20200111100000 -0300" channel="Canal Mega HD">
+    <title lang="es">A orillas del río</title>
+  </programme>
+  <programme start="20200111100000 -0300" stop="20200111110000 -0300" channel="Canal Mega HD">
+    <title lang="es">Vuelta a la Manzana</title>
+  </programme>
+  <programme start="20200111110000 -0300" stop="20200111120000 -0300" channel="Canal Mega HD">
+    <title lang="es">Bicitantes</title>
+  </programme>
+  <programme start="20200111120000 -0300" stop="20200111130000 -0300" channel="Canal Mega HD">
+    <title lang="es">Selección internacional España</title>
+  </programme>
+  <programme start="20200111130000 -0300" stop="20200111140000 -0300" channel="Canal Mega HD">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20200111140000 -0300" stop="20200111150000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias Reportajes</title>
+  </programme>
+  <programme start="20200111150000 -0300" stop="20200111163000 -0300" channel="Canal Mega HD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20200111163000 -0300" stop="20200111183000 -0300" channel="Canal Mega HD">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20200111183000 -0300" stop="20200111193000 -0300" channel="Canal Mega HD">
+    <title lang="es">Secretos Urbanos</title>
+  </programme>
+  <programme start="20200111193000 -0300" stop="20200111210000 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
+  </programme>
+  <programme start="20200111210000 -0300" stop="20200111221000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20200111221000 -0300" stop="20200111221500 -0300" channel="Canal Mega HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20200111221500 -0300" stop="20200111231500 -0300" channel="Canal Mega HD">
+    <title lang="es">¿Y tú quién eres</title>
+  </programme>
+  <programme start="20200111231500 -0300" stop="20200112000000 -0300" channel="Canal Mega HD">
+    <title lang="es">Las mil y una noches</title>
+  </programme>
+  <programme start="20200112000000 -0300" stop="20200112010000 -0300" channel="Canal Mega HD">
+    <title lang="es">Comer y sanar</title>
+  </programme>
+  <programme start="20200112010000 -0300" stop="20200112070000 -0300" channel="Canal Mega HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20200112110000 -0300" stop="20200112120000 -0300" channel="Canal Mega HD">
+    <title lang="es">Crónicas de un Bicitante</title>
+  </programme>
+  <programme start="20200112120000 -0300" stop="20200112130000 -0300" channel="Canal Mega HD">
+    <title lang="es">Comer y sanar</title>
+  </programme>
+  <programme start="20200112130000 -0300" stop="20200112163000 -0300" channel="Canal Mega HD">
+    <title lang="es">Selección Internacional</title>
+  </programme>
+  <programme start="20200112163000 -0300" stop="20200112173000 -0300" channel="Canal Mega HD">
+    <title lang="es">A la medida</title>
+  </programme>
+  <programme start="20200112173000 -0300" stop="20200112183000 -0300" channel="Canal Mega HD">
+    <title lang="es">A la medida</title>
+  </programme>
+  <programme start="20200112183000 -0300" stop="20200112193000 -0300" channel="Canal Mega HD">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20200112193000 -0300" stop="20200112210000 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
+  </programme>
+  <programme start="20200112210000 -0300" stop="20200112220000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20200112220000 -0300" stop="20200112223000 -0300" channel="Canal Mega HD">
+    <title lang="es">Misión encubierta</title>
+  </programme>
+  <programme start="20200112223000 -0300" stop="20200112223500 -0300" channel="Canal Mega HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20200112223500 -0300" stop="20200112232000 -0300" channel="Canal Mega HD">
+    <title lang="es">Juegos de poder</title>
+  </programme>
+  <programme start="20200112232000 -0300" stop="20200113002000 -0300" channel="Canal Mega HD">
+    <title lang="es">Crash</title>
+  </programme>
+  <programme start="20200113002000 -0300" stop="20200113011000 -0300" channel="Canal Mega HD">
+    <title lang="es">Stiletto Vendetta</title>
+  </programme>
+  <programme start="20200113011000 -0300" stop="20200113015000 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
+  </programme>
+  <programme start="20200113015000 -0300" stop="20200113054500 -0300" channel="Canal Mega HD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20200113054500 -0300" stop="20200113063000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias amanece</title>
+  </programme>
+  <programme start="20200113063000 -0300" stop="20200113080000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20200113080000 -0300" stop="20200113130000 -0300" channel="Canal Mega HD">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20200113130000 -0300" stop="20200113151500 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20200113151500 -0300" stop="20200113152000 -0300" channel="Canal Mega HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20200113152000 -0300" stop="20200113155000 -0300" channel="Canal Mega HD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20200113155000 -0300" stop="20200113163000 -0300" channel="Canal Mega HD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20200113163000 -0300" stop="20200113174000 -0300" channel="Canal Mega HD">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20200113174000 -0300" stop="20200113185000 -0300" channel="Canal Mega HD">
+    <title lang="es">Stiletto Vendetta</title>
+  </programme>
+  <programme start="20200113185000 -0300" stop="20200113194500 -0300" channel="Canal Mega HD">
+    <title lang="es">Las mil y una noches</title>
+  </programme>
+  <programme start="20200113194500 -0300" stop="20200113195000 -0300" channel="Canal Mega HD">
+    <title lang="es">Avance Meganoticias</title>
+  </programme>
+  <programme start="20200113195000 -0300" stop="20200113202000 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
+  </programme>
+  <programme start="20200113202000 -0300" stop="20200113210000 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
+  </programme>
+  <programme start="20200113210000 -0300" stop="20200113222000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20200113222000 -0300" stop="20200113222500 -0300" channel="Canal Mega HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20200113222500 -0300" stop="20200113232000 -0300" channel="Canal Mega HD">
+    <title lang="es">Juegos de poder</title>
+  </programme>
+  <programme start="20200113232000 -0300" stop="20200114002000 -0300" channel="Canal Mega HD">
+    <title lang="es">¿Qué culpa tiene Fatmagul</title>
+  </programme>
+  <programme start="20200114002000 -0300" stop="20200114010500 -0300" channel="Canal Mega HD">
+    <title lang="es">Stiletto Vendetta</title>
+  </programme>
+  <programme start="20200114010500 -0300" stop="20200114014000 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
+  </programme>
+  <programme start="20200114014000 -0300" stop="20200114054500 -0300" channel="Canal Mega HD">
+    <title lang="es">Cierre de estación</title>
   </programme>
   <programme start="20200111003000 -0300" stop="20200111010000 -0300" channel="Canal TV Chile">
     <title lang="es">Exploradores</title>
