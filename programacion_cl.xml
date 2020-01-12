@@ -60,7 +60,7 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200111010000 -0300" stop="20200111020000 -0300" channel="Canal 13 de Chile">
+  <programme start="20200112010000 -0300" stop="20200112020000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(n)</desc>
     <date>1989</date>
@@ -68,57 +68,6 @@
     <category lang="es">Programa</category>
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
-  </programme>
-  <programme start="20200111020000 -0300" stop="20200111071500 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Cierre de estación</title>
-  </programme>
-  <programme start="20200111071500 -0300" stop="20200111081500 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Carlo Cocina</title>
-  </programme>
-  <programme start="20200111081500 -0300" stop="20200111090000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Usted no reconoce a Chile</title>
-  </programme>
-  <programme start="20200111090000 -0300" stop="20200111100000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Chile, un territorio al sur del mundo</title>
-  </programme>
-  <programme start="20200111100000 -0300" stop="20200111110000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Lugares que hablan</title>
-  </programme>
-  <programme start="20200111110000 -0300" stop="20200111130000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">La era de hielo 3</title>
-  </programme>
-  <programme start="20200111130000 -0300" stop="20200111150000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Teletrece</title>
-  </programme>
-  <programme start="20200111150000 -0300" stop="20200111161500 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Lugares que hablan</title>
-  </programme>
-  <programme start="20200111161500 -0300" stop="20200111173000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Cocina sin fronteras</title>
-  </programme>
-  <programme start="20200111173000 -0300" stop="20200111183000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Plato Unico</title>
-  </programme>
-  <programme start="20200111183000 -0300" stop="20200111193000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Recomiendo Chile</title>
-  </programme>
-  <programme start="20200111193000 -0300" stop="20200111210000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Lugares que hablan</title>
-  </programme>
-  <programme start="20200111210000 -0300" stop="20200111223000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Teletrece</title>
-  </programme>
-  <programme start="20200111223000 -0300" stop="20200111223500 -0300" channel="Canal 13 de Chile">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200111223500 -0300" stop="20200111234500 -0300" channel="Canal 13 de Chile">
-    <title lang="es">Siempre hay un chileno</title>
-  </programme>
-  <programme start="20200111234500 -0300" stop="20200111234500 -0300" channel="Canal 13 de Chile">
-    <title lang="es">City Tour on Tour</title>
-  </programme>
-  <programme start="20200111234500 -0300" stop="20200112020000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">City Tour on Tour</title>
   </programme>
   <programme start="20200112020000 -0300" stop="20200112070000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Cierre de estación</title>
@@ -138,13 +87,13 @@
   <programme start="20200112120000 -0300" stop="20200112143000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20200112143000 -0300" stop="20200112173000 -0300" channel="Canal 13 de Chile">
-    <title lang="es">La liga extraordinaria</title>
+  <programme start="20200112143000 -0300" stop="20200112171500 -0300" channel="Canal 13 de Chile">
+    <title lang="es">Duro de Matar 4</title>
   </programme>
-  <programme start="20200112173000 -0300" stop="20200112190000 -0300" channel="Canal 13 de Chile">
+  <programme start="20200112171500 -0300" stop="20200112184500 -0300" channel="Canal 13 de Chile">
     <title lang="es">Lugares que hablan</title>
   </programme>
-  <programme start="20200112190000 -0300" stop="20200112210000 -0300" channel="Canal 13 de Chile">
+  <programme start="20200112184500 -0300" stop="20200112210000 -0300" channel="Canal 13 de Chile">
     <title lang="es">Contra viento y marea</title>
   </programme>
   <programme start="20200112210000 -0300" stop="20200112223000 -0300" channel="Canal 13 de Chile">
@@ -282,109 +231,16 @@
   <programme start="20200114222500 -0300" stop="20200114223000 -0300" channel="Canal 13 de Chile">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20200111004500 -0300" stop="20200111010000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-  <programme start="20200111010000 -0300" stop="20200111013000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111013000 -0300" stop="20200111020000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111020000 -0300" stop="20200111023000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111023000 -0300" stop="20200111031500 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111031500 -0300" stop="20200111034500 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111034500 -0300" stop="20200111041500 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111041500 -0300" stop="20200111044500 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111044500 -0300" stop="20200111051500 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111051500 -0300" stop="20200111060000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111060000 -0300" stop="20200111063000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111063000 -0300" stop="20200111070000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111070000 -0300" stop="20200111073000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111073000 -0300" stop="20200111080000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111080000 -0300" stop="20200111083000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111083000 -0300" stop="20200111090000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111090000 -0300" stop="20200111100000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111100000 -0300" stop="20200111123000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Semana 24</title>
-  </programme>
-  <programme start="20200111123000 -0300" stop="20200111130000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Exploradores</title>
-  </programme>
-  <programme start="20200111130000 -0300" stop="20200111143000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Tarde</title>
-  </programme>
-  <programme start="20200111143000 -0300" stop="20200111150000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Mas motor</title>
-  </programme>
-  <programme start="20200111150000 -0300" stop="20200111153000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-  <programme start="20200111153000 -0300" stop="20200111163000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111163000 -0300" stop="20200111170000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Especialista Responde</title>
-  </programme>
-  <programme start="20200111170000 -0300" stop="20200111180000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111180000 -0300" stop="20200111183000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111183000 -0300" stop="20200111193000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 horas</title>
-  </programme>
-  <programme start="20200111193000 -0300" stop="20200111200000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111200000 -0300" stop="20200111203000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 horas</title>
-  </programme>
-  <programme start="20200111203000 -0300" stop="20200111210000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111210000 -0300" stop="20200111223000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200111223000 -0300" stop="20200111233000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Sin corbata</title>
-  </programme>
-  <programme start="20200111233000 -0300" stop="20200112000000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-  <programme start="20200112000000 -0300" stop="20200112003000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
   <programme start="20200112003000 -0300" stop="20200112010000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112010000 -0300" stop="20200112013000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112013000 -0300" stop="20200112020000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112020000 -0300" stop="20200112023000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
   <programme start="20200112023000 -0300" stop="20200112030000 -0300" channel="Canal 24 Horas (Chile)">
@@ -426,17 +282,17 @@
   <programme start="20200112083000 -0300" stop="20200112090000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20200112090000 -0300" stop="20200112093000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200112090000 -0300" stop="20200112100000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20200112093000 -0300" stop="20200112103000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20200112103000 -0300" stop="20200112123000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200112100000 -0300" stop="20200112123000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Estado Nacional</title>
   </programme>
-  <programme start="20200112123000 -0300" stop="20200112133000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200112123000 -0300" stop="20200112130000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112130000 -0300" stop="20200112133000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
   </programme>
   <programme start="20200112133000 -0300" stop="20200112143000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Tarde</title>
@@ -444,17 +300,41 @@
   <programme start="20200112143000 -0300" stop="20200112150000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20200112150000 -0300" stop="20200112163000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200112150000 -0300" stop="20200112153000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Especialista Responde</title>
   </programme>
-  <programme start="20200112163000 -0300" stop="20200112180000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Sesiones 24</title>
-  </programme>
-  <programme start="20200112180000 -0300" stop="20200112223000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200112153000 -0300" stop="20200112163000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20200112223000 -0300" stop="20200112233000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Sin parche</title>
+  <programme start="20200112163000 -0300" stop="20200112170000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Sesiones 24</title>
+  </programme>
+  <programme start="20200112170000 -0300" stop="20200112180000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112180000 -0300" stop="20200112183000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112183000 -0300" stop="20200112193000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20200112193000 -0300" stop="20200112200000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112200000 -0300" stop="20200112203000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20200112203000 -0300" stop="20200112210000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112210000 -0300" stop="20200112223000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20200112223000 -0300" stop="20200112230000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+  <programme start="20200112230000 -0300" stop="20200112233000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Sesiones 24</title>
   </programme>
   <programme start="20200112233000 -0300" stop="20200113060000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Exploradores</title>
@@ -477,8 +357,11 @@
   <programme start="20200113123000 -0300" stop="20200113130000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Mas motor</title>
   </programme>
-  <programme start="20200113130000 -0300" stop="20200113170000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200113130000 -0300" stop="20200113163000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20200113163000 -0300" stop="20200113170000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Especialista Responde</title>
   </programme>
   <programme start="20200113170000 -0300" stop="20200113194500 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Noticias 24</title>
@@ -544,7 +427,7 @@
     <title lang="es">24 AM</title>
   </programme>
   <programme start="20200114080000 -0300" stop="20200114083000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Sesiones 24</title>
+    <title lang="es">Entrevistas 24</title>
   </programme>
   <programme start="20200114083000 -0300" stop="20200114103000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">La Mañana Informativa</title>
@@ -567,17 +450,11 @@
   <programme start="20200114164500 -0300" stop="20200114223000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20200114223000 -0300" stop="20200115000000 -0300" channel="Canal 24 Horas (Chile)">
+  <programme start="20200114223000 -0300" stop="20200115004500 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Cuadros</title>
-  </programme>
-  <programme start="20200115000000 -0300" stop="20200115001500 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
   </programme>
   <programme start="20200115004500 -0300" stop="20200115010000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">24 Cuadros</title>
-  </programme>
-  <programme start="20200115080000 -0300" stop="20200115083000 -0300" channel="Canal 24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
   </programme>
   <programme start="20200115163000 -0300" stop="20200115170000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Exploradores</title>
@@ -588,59 +465,29 @@
   <programme start="20200115194500 -0300" stop="20200115200000 -0300" channel="Canal 24 Horas (Chile)">
     <title lang="es">Estado Nacional en Duna</title>
   </programme>
-  <programme start="20200111003000 -0300" stop="20200111013000 -0300" channel="Canal CDF Básico">
-    <title lang="es">CDF Noticias</title>
+  <programme start="20200115200000 -0300" stop="20200115223000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">24 horas</title>
   </programme>
-  <programme start="20200111013000 -0300" stop="20200111033000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Abrazo de gol</title>
+  <programme start="20200115223000 -0300" stop="20200115224500 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20200111033000 -0300" stop="20200111060000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Pelota Parada</title>
+  <programme start="20200115224500 -0300" stop="20200116000000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Vía Pública</title>
   </programme>
-  <programme start="20200111060000 -0300" stop="20200111070000 -0300" channel="Canal CDF Básico">
-    <title lang="es">CDF Noticias</title>
+  <programme start="20200116000000 -0300" stop="20200116001500 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20200111070000 -0300" stop="20200111085500 -0300" channel="Canal CDF Básico">
-    <title lang="es">Abrazo de gol</title>
+  <programme start="20200116080000 -0300" stop="20200116083000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Especialista Responde</title>
   </programme>
-  <programme start="20200111085500 -0300" stop="20200111110500 -0300" channel="Canal CDF Básico">
-    <title lang="es">Baloncesto Liga ACB</title>
+  <programme start="20200116163000 -0300" stop="20200116170000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
   </programme>
-  <programme start="20200111110500 -0300" stop="20200111130000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Todos Somos Técnicos</title>
+  <programme start="20200116170000 -0300" stop="20200116183000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
   </programme>
-  <programme start="20200111130000 -0300" stop="20200111140000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Sin barreras</title>
-  </programme>
-  <programme start="20200111140000 -0300" stop="20200111154000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Cobresal vs. Universidad de Chile</title>
-  </programme>
-  <programme start="20200111154000 -0300" stop="20200111172000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Universidad de Chile vs. Cobresal</title>
-  </programme>
-  <programme start="20200111172000 -0300" stop="20200111182000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Sin barreras</title>
-  </programme>
-  <programme start="20200111182000 -0300" stop="20200111191500 -0300" channel="Canal CDF Básico">
-    <title lang="es">Rodelindo, del barrio al mundo</title>
-  </programme>
-  <programme start="20200111191500 -0300" stop="20200111194000 -0300" channel="Canal CDF Básico">
-    <title lang="es">La Década</title>
-  </programme>
-  <programme start="20200111194000 -0300" stop="20200111211000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Audax Italiano vs. Unión Española</title>
-  </programme>
-  <programme start="20200111211000 -0300" stop="20200111230000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Unión Española vs. Audax Italiano</title>
-  </programme>
-  <programme start="20200111230000 -0300" stop="20200111233000 -0300" channel="Canal CDF Básico">
-    <title lang="es">La Década</title>
-  </programme>
-  <programme start="20200111233000 -0300" stop="20200111233000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
-  </programme>
-  <programme start="20200111233000 -0300" stop="20200112021000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
+  <programme start="20200116183000 -0300" stop="20200116190000 -0300" channel="Canal 24 Horas (Chile)">
+    <title lang="es">Mirada Económica</title>
   </programme>
   <programme start="20200112021000 -0300" stop="20200112050000 -0300" channel="Canal CDF Básico">
     <title lang="es">Barnechea vs. Deportes Copiapó</title>
@@ -661,7 +508,7 @@
     <title lang="es">La Década</title>
   </programme>
   <programme start="20200112103000 -0300" stop="20200112121000 -0300" channel="Canal CDF Básico">
-    <title lang="es">Universidad Católica vs. Unión La Calera</title>
+    <title lang="es">Unión La Calera vs. Universidad Católica</title>
   </programme>
   <programme start="20200112121000 -0300" stop="20200112135000 -0300" channel="Canal CDF Básico">
     <title lang="es">Universidad Católica vs. Unión La Calera</title>
@@ -804,53 +651,17 @@
   <programme start="20200115093000 -0300" stop="20200115111000 -0300" channel="Canal CDF Básico">
     <title lang="es">Fútbol clásico</title>
   </programme>
-  <programme start="20200111003000 -0300" stop="20200111013000 -0300" channel="Canal CDF HD">
-    <title lang="es">CDF Noticias</title>
-  </programme>
-  <programme start="20200111013000 -0300" stop="20200111033000 -0300" channel="Canal CDF HD">
-    <title lang="es">Abrazo de gol</title>
-  </programme>
-  <programme start="20200111033000 -0300" stop="20200111060000 -0300" channel="Canal CDF HD">
-    <title lang="es">Pelota Parada</title>
-  </programme>
-  <programme start="20200111060000 -0300" stop="20200111070000 -0300" channel="Canal CDF HD">
-    <title lang="es">CDF Noticias</title>
-  </programme>
-  <programme start="20200111070000 -0300" stop="20200111090000 -0300" channel="Canal CDF HD">
-    <title lang="es">Abrazo de gol</title>
-  </programme>
-  <programme start="20200111090000 -0300" stop="20200111111000 -0300" channel="Canal CDF HD">
-    <title lang="es">Baloncesto Liga ACB</title>
-  </programme>
-  <programme start="20200111111000 -0300" stop="20200111131000 -0300" channel="Canal CDF HD">
+  <programme start="20200115111000 -0300" stop="20200115210000 -0300" channel="Canal CDF Básico">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200111131000 -0300" stop="20200111141000 -0300" channel="Canal CDF HD">
-    <title lang="es">Sin barreras</title>
+  <programme start="20200115210000 -0300" stop="20200116022000 -0300" channel="Canal CDF Básico">
+    <title lang="es">Abrazo de gol</title>
   </programme>
-  <programme start="20200111141000 -0300" stop="20200111163000 -0300" channel="Canal CDF HD">
-    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
-  </programme>
-  <programme start="20200111163000 -0300" stop="20200111173000 -0300" channel="Canal CDF HD">
-    <title lang="es">Sin barreras</title>
-  </programme>
-  <programme start="20200111173000 -0300" stop="20200111180000 -0300" channel="Canal CDF HD">
-    <title lang="es">Previa Fútbol chileno Primera B</title>
-  </programme>
-  <programme start="20200111180000 -0300" stop="20200111201000 -0300" channel="Canal CDF HD">
-    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
-  </programme>
-  <programme start="20200111201000 -0300" stop="20200111203000 -0300" channel="Canal CDF HD">
-    <title lang="es">Previa Fútbol chileno Primera B</title>
-  </programme>
-  <programme start="20200111203000 -0300" stop="20200111230000 -0300" channel="Canal CDF HD">
-    <title lang="es">Barnechea vs. Deportes Copiapó</title>
-  </programme>
-  <programme start="20200111230000 -0300" stop="20200112000000 -0300" channel="Canal CDF HD">
+  <programme start="20200116022000 -0300" stop="20200116031500 -0300" channel="Canal CDF Básico">
     <title lang="es">Rodelindo, del barrio al mundo</title>
   </programme>
-  <programme start="20200112000000 -0300" stop="20200112003000 -0300" channel="Canal CDF HD">
-    <title lang="es">La Década</title>
+  <programme start="20200116031500 -0300" stop="20200116041000 -0300" channel="Canal CDF Básico">
+    <title lang="es">CDF Noticias</title>
   </programme>
   <programme start="20200112003000 -0300" stop="20200112031000 -0300" channel="Canal CDF HD">
     <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
@@ -879,11 +690,17 @@
   <programme start="20200112142000 -0300" stop="20200112163000 -0300" channel="Canal CDF HD">
     <title lang="es">Baloncesto Liga ACB</title>
   </programme>
-  <programme start="20200112163000 -0300" stop="20200112180000 -0300" channel="Canal CDF HD">
+  <programme start="20200112163000 -0300" stop="20200112173000 -0300" channel="Canal CDF HD">
     <title lang="es">Rodelindo, del barrio al mundo</title>
   </programme>
-  <programme start="20200112180000 -0300" stop="20200112203000 -0300" channel="Canal CDF HD">
+  <programme start="20200112173000 -0300" stop="20200112180000 -0300" channel="Canal CDF HD">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
+  </programme>
+  <programme start="20200112180000 -0300" stop="20200112201000 -0300" channel="Canal CDF HD">
     <title lang="es">Deportes Melipilla vs. Unión San Felipe</title>
+  </programme>
+  <programme start="20200112201000 -0300" stop="20200112203000 -0300" channel="Canal CDF HD">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
   </programme>
   <programme start="20200112203000 -0300" stop="20200112230000 -0300" channel="Canal CDF HD">
     <title lang="es">Deportes Temuco vs. Cobreloa</title>
@@ -996,53 +813,23 @@
   <programme start="20200115180000 -0300" stop="20200115203000 -0300" channel="Canal CDF HD">
     <title lang="es">Las semifinales. Equipos por Confirmar</title>
   </programme>
-  <programme start="20200111003000 -0300" stop="20200111013000 -0300" channel="Canal CDF Premium">
-    <title lang="es">CDF Noticias</title>
+  <programme start="20200115203000 -0300" stop="20200115230000 -0300" channel="Canal CDF HD">
+    <title lang="es">Las semifinales. Equipos por Confirmar</title>
   </programme>
-  <programme start="20200111013000 -0300" stop="20200111033000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Abrazo de gol</title>
-  </programme>
-  <programme start="20200111033000 -0300" stop="20200111060000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Pelota Parada</title>
-  </programme>
-  <programme start="20200111060000 -0300" stop="20200111070000 -0300" channel="Canal CDF Premium">
-    <title lang="es">CDF Noticias</title>
-  </programme>
-  <programme start="20200111070000 -0300" stop="20200111090000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Abrazo de gol</title>
-  </programme>
-  <programme start="20200111090000 -0300" stop="20200111111000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Baloncesto Liga ACB</title>
-  </programme>
-  <programme start="20200111111000 -0300" stop="20200111131000 -0300" channel="Canal CDF Premium">
+  <programme start="20200115230000 -0300" stop="20200115230000 -0300" channel="Canal CDF HD">
     <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200111131000 -0300" stop="20200111141000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Sin barreras</title>
+  <programme start="20200115230000 -0300" stop="20200116022000 -0300" channel="Canal CDF HD">
+    <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200111141000 -0300" stop="20200111163000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
-  </programme>
-  <programme start="20200111163000 -0300" stop="20200111173000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Sin barreras</title>
-  </programme>
-  <programme start="20200111173000 -0300" stop="20200111180000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Previa Fútbol chileno Primera B</title>
-  </programme>
-  <programme start="20200111180000 -0300" stop="20200111201000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
-  </programme>
-  <programme start="20200111201000 -0300" stop="20200111203000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Previa Fútbol chileno Primera B</title>
-  </programme>
-  <programme start="20200111203000 -0300" stop="20200111230000 -0300" channel="Canal CDF Premium">
-    <title lang="es">Barnechea vs. Deportes Copiapó</title>
-  </programme>
-  <programme start="20200111230000 -0300" stop="20200112000000 -0300" channel="Canal CDF Premium">
+  <programme start="20200116022000 -0300" stop="20200116031500 -0300" channel="Canal CDF HD">
     <title lang="es">Rodelindo, del barrio al mundo</title>
   </programme>
-  <programme start="20200112000000 -0300" stop="20200112003000 -0300" channel="Canal CDF Premium">
-    <title lang="es">La Década</title>
+  <programme start="20200116031500 -0300" stop="20200116041000 -0300" channel="Canal CDF HD">
+    <title lang="es">CDF Noticias</title>
+  </programme>
+  <programme start="20200116065500 -0300" stop="20200116075000 -0300" channel="Canal CDF HD">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
   </programme>
   <programme start="20200112003000 -0300" stop="20200112031000 -0300" channel="Canal CDF Premium">
     <title lang="es">Ñublense vs. Deportes Puerto Montt</title>
@@ -1071,11 +858,17 @@
   <programme start="20200112142000 -0300" stop="20200112163000 -0300" channel="Canal CDF Premium">
     <title lang="es">Baloncesto Liga ACB</title>
   </programme>
-  <programme start="20200112163000 -0300" stop="20200112180000 -0300" channel="Canal CDF Premium">
+  <programme start="20200112163000 -0300" stop="20200112173000 -0300" channel="Canal CDF Premium">
     <title lang="es">Rodelindo, del barrio al mundo</title>
   </programme>
-  <programme start="20200112180000 -0300" stop="20200112203000 -0300" channel="Canal CDF Premium">
+  <programme start="20200112173000 -0300" stop="20200112180000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
+  </programme>
+  <programme start="20200112180000 -0300" stop="20200112201000 -0300" channel="Canal CDF Premium">
     <title lang="es">Deportes Melipilla vs. Unión San Felipe</title>
+  </programme>
+  <programme start="20200112201000 -0300" stop="20200112203000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Previa Fútbol chileno Primera B</title>
   </programme>
   <programme start="20200112203000 -0300" stop="20200112230000 -0300" channel="Canal CDF Premium">
     <title lang="es">Deportes Temuco vs. Cobreloa</title>
@@ -1188,41 +981,23 @@
   <programme start="20200115180000 -0300" stop="20200115203000 -0300" channel="Canal CDF Premium">
     <title lang="es">Las semifinales. Equipos por Confirmar</title>
   </programme>
-  <programme start="20200111010000 -0300" stop="20200111014500 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">La noche es nuestra</title>
+  <programme start="20200115203000 -0300" stop="20200115230000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Las semifinales. Equipos por Confirmar</title>
   </programme>
-  <programme start="20200111014500 -0300" stop="20200111021500 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">CHV Noticias</title>
+  <programme start="20200115230000 -0300" stop="20200115230000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200111021500 -0300" stop="20200111064500 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Cierre de estación</title>
+  <programme start="20200115230000 -0300" stop="20200116022000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Todos Somos Técnicos</title>
   </programme>
-  <programme start="20200111064500 -0300" stop="20200111080000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Programación Pagada</title>
+  <programme start="20200116022000 -0300" stop="20200116031500 -0300" channel="Canal CDF Premium">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
   </programme>
-  <programme start="20200111080000 -0300" stop="20200111083000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Pabellón de la Construcción TV</title>
+  <programme start="20200116031500 -0300" stop="20200116041000 -0300" channel="Canal CDF Premium">
+    <title lang="es">CDF Noticias</title>
   </programme>
-  <programme start="20200111083000 -0300" stop="20200111110000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Los juegos del destino</title>
-  </programme>
-  <programme start="20200111110000 -0300" stop="20200111133000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Sabingo A.M</title>
-  </programme>
-  <programme start="20200111133000 -0300" stop="20200111150000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">CHV Noticias</title>
-  </programme>
-  <programme start="20200111150000 -0300" stop="20200111183000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Sabingo</title>
-  </programme>
-  <programme start="20200111183000 -0300" stop="20200111203000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Flor de Chile</title>
-  </programme>
-  <programme start="20200111203000 -0300" stop="20200111220000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">CHV Noticias</title>
-  </programme>
-  <programme start="20200111220000 -0300" stop="20200112001500 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">La divina comida</title>
+  <programme start="20200116065500 -0300" stop="20200116075000 -0300" channel="Canal CDF Premium">
+    <title lang="es">Rodelindo, del barrio al mundo</title>
   </programme>
   <programme start="20200112001500 -0300" stop="20200112011500 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Podemos Hablar</title>
@@ -1232,6 +1007,12 @@
   </programme>
   <programme start="20200112013000 -0300" stop="20200112064500 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20200112064500 -0300" stop="20200112080000 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20200112080000 -0300" stop="20200112083000 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Pabellón de la Construcción TV</title>
   </programme>
   <programme start="20200112083000 -0300" stop="20200112093000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Boing</title>
@@ -1276,32 +1057,42 @@
   <programme start="20200113063000 -0300" stop="20200113074500 -0300" channel="Canal Chilevisión HD">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20200113074500 -0300" stop="20200113110000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200113074500 -0300" stop="20200113130000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Contigo en la mañana</title>
-  </programme>
-  <programme start="20200113110000 -0300" stop="20200113130000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Viva la pipol</title>
   </programme>
   <programme start="20200113130000 -0300" stop="20200113153000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20200113153000 -0300" stop="20200113163000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">El cuerpo del deseo</title>
+  <programme start="20200113153000 -0300" stop="20200113164500 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Victoria</title>
   </programme>
-  <programme start="20200113163000 -0300" stop="20200113183000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Tu Vida, Tu Historia</title>
+  <programme start="20200113164500 -0300" stop="20200113184500 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20200113183000 -0300" stop="20200113203000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200113184500 -0300" stop="20200113203000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">La divina comida</title>
   </programme>
-  <programme start="20200113203000 -0300" stop="20200113213000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200113203000 -0300" stop="20200113220000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20200113213000 -0300" stop="20200113223000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200113220000 -0300" stop="20200113230000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Gemelas</title>
   </programme>
-  <programme start="20200113223000 -0300" stop="20200114010000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200113230000 -0300" stop="20200113230000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Pasapalabra</title>
+    <episode-num>E2382</episode-num>
+  </programme>
+  <programme start="20200113230000 -0300" stop="20200114010000 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Pasapalabra</title>
+    <episode-num>E2382</episode-num>
   </programme>
   <programme start="20200114010000 -0300" stop="20200114013000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">CHV Noticias</title>
@@ -1315,149 +1106,51 @@
   <programme start="20200114063000 -0300" stop="20200114074500 -0300" channel="Canal Chilevisión HD">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20200114074500 -0300" stop="20200114110000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200114074500 -0300" stop="20200114130000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Contigo en la mañana</title>
-  </programme>
-  <programme start="20200114110000 -0300" stop="20200114130000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Viva la pipol</title>
   </programme>
   <programme start="20200114130000 -0300" stop="20200114153000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">CHV Noticias</title>
   </programme>
-  <programme start="20200114153000 -0300" stop="20200114163000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">El cuerpo del deseo</title>
+  <programme start="20200114153000 -0300" stop="20200114164500 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Victoria</title>
   </programme>
-  <programme start="20200114163000 -0300" stop="20200114183000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Tu Vida, Tu Historia</title>
+  <programme start="20200114164500 -0300" stop="20200114184500 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20200114183000 -0300" stop="20200114203000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200114184500 -0300" stop="20200114220000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">La divina comida</title>
   </programme>
-  <programme start="20200114203000 -0300" stop="20200114213000 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">CHV Noticias</title>
-  </programme>
-  <programme start="20200114213000 -0300" stop="20200114223000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200114220000 -0300" stop="20200114230000 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Gemelas</title>
   </programme>
-  <programme start="20200114223000 -0300" stop="20200115153000 -0300" channel="Canal Chilevisión HD">
+  <programme start="20200114230000 -0300" stop="20200115074500 -0300" channel="Canal Chilevisión HD">
     <title lang="es">Pasapalabra</title>
+    <episode-num>E2383</episode-num>
   </programme>
-  <programme start="20200115153000 -0300" stop="20200115181500 -0300" channel="Canal Chilevisión HD">
-    <title lang="es">Tu Vida, Tu Historia</title>
+  <programme start="20200115074500 -0300" stop="20200115130000 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Contigo en la mañana</title>
   </programme>
-  <programme start="20200111003000 -0300" stop="20200111010000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Agenda Económica</title>
+  <programme start="20200115153000 -0300" stop="20200115220000 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Victoria</title>
   </programme>
-  <programme start="20200111010000 -0300" stop="20200111013000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Empresas 2050</title>
+  <programme start="20200115220000 -0300" stop="20200115230000 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Gemelas</title>
   </programme>
-  <programme start="20200111013000 -0300" stop="20200111020000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Desafio Tierra</title>
+  <programme start="20200115230000 -0300" stop="20200116074500 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Pasapalabra</title>
+    <episode-num>E2384</episode-num>
   </programme>
-  <programme start="20200111020000 -0300" stop="20200111023000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Nuevo Pacto</title>
-  </programme>
-  <programme start="20200111023000 -0300" stop="20200111033000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Última Mirada en CNN Chile</title>
-  </programme>
-  <programme start="20200111033000 -0300" stop="20200111040000 -0300" channel="Canal CNN Chile">
-    <title lang="es">CHV Noticias</title>
-  </programme>
-  <programme start="20200111040000 -0300" stop="20200111043000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Magazine CNN</title>
-  </programme>
-  <programme start="20200111043000 -0300" stop="20200111050000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Futuro 360</title>
-  </programme>
-  <programme start="20200111050000 -0300" stop="20200111053000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Nuevo Pacto</title>
-  </programme>
-  <programme start="20200111053000 -0300" stop="20200111060000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Rompeparadigmas</title>
-  </programme>
-  <programme start="20200111060000 -0300" stop="20200111063000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Desafio Tierra</title>
-  </programme>
-  <programme start="20200111063000 -0300" stop="20200111073000 -0300" channel="Canal CNN Chile">
-    <title lang="es">CNN Íntimo</title>
-  </programme>
-  <programme start="20200111073000 -0300" stop="20200111080000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Empresas 2050</title>
-  </programme>
-  <programme start="20200111080000 -0300" stop="20200111083000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Por la Razón y la Ciencia</title>
-  </programme>
-  <programme start="20200111083000 -0300" stop="20200111090000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Nuevo Pacto</title>
-  </programme>
-  <programme start="20200111090000 -0300" stop="20200111093000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Panorama Chile</title>
-  </programme>
-  <programme start="20200111093000 -0300" stop="20200111103000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20200111103000 -0300" stop="20200111110000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Rompeparadigmas</title>
-  </programme>
-  <programme start="20200111110000 -0300" stop="20200111113000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20200111113000 -0300" stop="20200111120000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Nuevo Pacto</title>
-  </programme>
-  <programme start="20200111120000 -0300" stop="20200111123000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20200111123000 -0300" stop="20200111130000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Desafio Tierra</title>
-  </programme>
-  <programme start="20200111130000 -0300" stop="20200111133000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Futuro 360</title>
-  </programme>
-  <programme start="20200111133000 -0300" stop="20200111150000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias tarde CNN/CHV</title>
-  </programme>
-  <programme start="20200111150000 -0300" stop="20200111153000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Rompeparadigmas</title>
-  </programme>
-  <programme start="20200111153000 -0300" stop="20200111160000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Panorama Chile</title>
-  </programme>
-  <programme start="20200111160000 -0300" stop="20200111163000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20200111163000 -0300" stop="20200111170000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Empresas 2050</title>
-  </programme>
-  <programme start="20200111170000 -0300" stop="20200111173000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Nuevo Pacto</title>
-  </programme>
-  <programme start="20200111173000 -0300" stop="20200111183000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20200111183000 -0300" stop="20200111190000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Desafio Tierra</title>
-  </programme>
-  <programme start="20200111190000 -0300" stop="20200111193000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20200111193000 -0300" stop="20200111203000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Hoja en blanco</title>
-  </programme>
-  <programme start="20200111203000 -0300" stop="20200111220000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias central CNN/CHV</title>
-  </programme>
-  <programme start="20200111220000 -0300" stop="20200111230000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Conciencia Inclusiva</title>
-  </programme>
-  <programme start="20200111230000 -0300" stop="20200111233000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Noticias Express</title>
-  </programme>
-  <programme start="20200111233000 -0300" stop="20200112000000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Por la Razón y la Ciencia</title>
-  </programme>
-  <programme start="20200112000000 -0300" stop="20200112010000 -0300" channel="Canal CNN Chile">
-    <title lang="es">Hoja en blanco</title>
+  <programme start="20200116074500 -0300" stop="20200116130000 -0300" channel="Canal Chilevisión HD">
+    <title lang="es">Contigo en la mañana</title>
   </programme>
   <programme start="20200112010000 -0300" stop="20200112013000 -0300" channel="Canal CNN Chile">
     <title lang="es">Nuevo Pacto</title>
@@ -1543,8 +1236,11 @@
   <programme start="20200112173000 -0300" stop="20200112183000 -0300" channel="Canal CNN Chile">
     <title lang="es">Noticias Express</title>
   </programme>
-  <programme start="20200112183000 -0300" stop="20200112193000 -0300" channel="Canal CNN Chile">
+  <programme start="20200112183000 -0300" stop="20200112190000 -0300" channel="Canal CNN Chile">
     <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20200112190000 -0300" stop="20200112193000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Noticias Express</title>
   </programme>
   <programme start="20200112193000 -0300" stop="20200112200000 -0300" channel="Canal CNN Chile">
     <title lang="es">Por la Razón y la Ciencia</title>
@@ -1621,8 +1317,11 @@
   <programme start="20200113170000 -0300" stop="20200113190000 -0300" channel="Canal CNN Chile">
     <title lang="es">Hoy es noticia</title>
   </programme>
-  <programme start="20200113190000 -0300" stop="20200113220000 -0300" channel="Canal CNN Chile">
+  <programme start="20200113190000 -0300" stop="20200113203000 -0300" channel="Canal CNN Chile">
     <title lang="es">Marca registrada</title>
+  </programme>
+  <programme start="20200113203000 -0300" stop="20200113220000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Noticias central CNN/CHV</title>
   </programme>
   <programme start="20200113220000 -0300" stop="20200113223000 -0300" channel="Canal CNN Chile">
     <title lang="es">Agenda Económica</title>
@@ -1630,8 +1329,14 @@
   <programme start="20200113223000 -0300" stop="20200113230000 -0300" channel="Canal CNN Chile">
     <title lang="es">La entrevista de Tomás Mosciatti</title>
   </programme>
-  <programme start="20200113230000 -0300" stop="20200114010000 -0300" channel="Canal CNN Chile">
+  <programme start="20200113230000 -0300" stop="20200114000000 -0300" channel="Canal CNN Chile">
     <title lang="es">Última Mirada en CNN Chile</title>
+  </programme>
+  <programme start="20200114000000 -0300" stop="20200114003000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Adelanto conexión global</title>
+  </programme>
+  <programme start="20200114003000 -0300" stop="20200114010000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
   </programme>
   <programme start="20200114010000 -0300" stop="20200114013000 -0300" channel="Canal CNN Chile">
     <title lang="es">Panorama Chile</title>
@@ -1642,8 +1347,20 @@
   <programme start="20200114020000 -0300" stop="20200114023000 -0300" channel="Canal CNN Chile">
     <title lang="es">CHV Noticias</title>
   </programme>
+  <programme start="20200114023000 -0300" stop="20200114033000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Última Mirada en CNN Chile</title>
+  </programme>
+  <programme start="20200114033000 -0300" stop="20200114040000 -0300" channel="Canal CNN Chile">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20200114040000 -0300" stop="20200114043000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Magazine CNN</title>
+  </programme>
   <programme start="20200114043000 -0300" stop="20200114050000 -0300" channel="Canal CNN Chile">
     <title lang="es">Rompeparadigmas</title>
+  </programme>
+  <programme start="20200114050000 -0300" stop="20200114053000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Nuevo Pacto</title>
   </programme>
   <programme start="20200114103000 -0300" stop="20200114153000 -0300" channel="Canal CNN Chile">
     <title lang="es">Panorama Chile</title>
@@ -1702,125 +1419,23 @@
   <programme start="20200115170000 -0300" stop="20200115190000 -0300" channel="Canal CNN Chile">
     <title lang="es">Hoy es noticia</title>
   </programme>
-  <programme start="20200111010000 -0300" stop="20200111020000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Rally</title>
+  <programme start="20200115190000 -0300" stop="20200115220000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Marca registrada</title>
   </programme>
-  <programme start="20200111020000 -0300" stop="20200111040000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Fox Sports Radio</title>
+  <programme start="20200115220000 -0300" stop="20200115223000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Agenda Económica</title>
   </programme>
-  <programme start="20200111040000 -0300" stop="20200111050000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Fox Sports Show</title>
+  <programme start="20200115223000 -0300" stop="20200115230000 -0300" channel="Canal CNN Chile">
+    <title lang="es">La entrevista de Tomás Mosciatti</title>
   </programme>
-  <programme start="20200111050000 -0300" stop="20200111063000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
-    <date>1997</date>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">IndyCar Series</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Español</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">Noticia</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
-    <country>México</country>
-    <country>Argentina</country>
+  <programme start="20200115230000 -0300" stop="20200116010000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Última Mirada en CNN Chile</title>
   </programme>
-  <programme start="20200111063000 -0300" stop="20200111070000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Rally</title>
+  <programme start="20200116010000 -0300" stop="20200116013000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Rompeparadigmas</title>
   </programme>
-  <programme start="20200111070000 -0300" stop="20200111080000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Fox Sports Show</title>
-  </programme>
-  <programme start="20200111080000 -0300" stop="20200111093000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
-    <date>1997</date>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">IndyCar Series</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Español</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">Noticia</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
-    <country>México</country>
-    <country>Argentina</country>
-  </programme>
-  <programme start="20200111093000 -0300" stop="20200111110000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
-    <date>1997</date>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">IndyCar Series</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Español</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">Noticia</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
-    <country>México</country>
-    <country>Argentina</country>
-  </programme>
-  <programme start="20200111110000 -0300" stop="20200111113000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Bundesliga weekly</title>
-  </programme>
-  <programme start="20200111113000 -0300" stop="20200111120000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Das Ligahaus</title>
-  </programme>
-  <programme start="20200111120000 -0300" stop="20200111140000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">River Plate vs. Internacional Repetición</title>
-  </programme>
-  <programme start="20200111140000 -0300" stop="20200111150000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Bundesliga Lo mejor del 2019</title>
-  </programme>
-  <programme start="20200111150000 -0300" stop="20200111170000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20200111170000 -0300" stop="20200111180000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Rally</title>
-  </programme>
-  <programme start="20200111180000 -0300" stop="20200111210000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">WWE Raw</title>
-  </programme>
-  <programme start="20200111210000 -0300" stop="20200111230000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Kickboxing</title>
-  </programme>
-  <programme start="20200111230000 -0300" stop="20200111233000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Rally</title>
-  </programme>
-  <programme start="20200111233000 -0300" stop="20200112003000 -0300" channel="Canal Fox Sports (Chile)">
-    <title lang="es">Review</title>
+  <programme start="20200116043000 -0300" stop="20200116050000 -0300" channel="Canal CNN Chile">
+    <title lang="es">Futuro 360</title>
   </programme>
   <programme start="20200112003000 -0300" stop="20200112010000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Das Ligahaus</title>
@@ -1859,6 +1474,87 @@
   <programme start="20200112040000 -0300" stop="20200112050000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Bundesliga Lo mejor del 2019</title>
   </programme>
+  <programme start="20200112050000 -0300" stop="20200112063000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20200112063000 -0300" stop="20200112070000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Rally</title>
+  </programme>
+  <programme start="20200112070000 -0300" stop="20200112080000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Show</title>
+  </programme>
+  <programme start="20200112080000 -0300" stop="20200112093000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20200112093000 -0300" stop="20200112110000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
   <programme start="20200112110000 -0300" stop="20200112120000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Review</title>
   </programme>
@@ -1880,8 +1576,11 @@
   <programme start="20200112210000 -0300" stop="20200112220000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Final de Película</title>
   </programme>
-  <programme start="20200112220000 -0300" stop="20200113003000 -0300" channel="Canal Fox Sports (Chile)">
+  <programme start="20200112220000 -0300" stop="20200112230000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Semifinal de Película</title>
+  </programme>
+  <programme start="20200112230000 -0300" stop="20200113003000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Rally</title>
   </programme>
   <programme start="20200113003000 -0300" stop="20200113010000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Bundesliga weekly</title>
@@ -1941,7 +1640,7 @@
   <programme start="20200113230000 -0300" stop="20200113233000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Rally</title>
   </programme>
-  <programme start="20200113233000 -0300" stop="20200114120000 -0300" channel="Canal Fox Sports (Chile)">
+  <programme start="20200113233000 -0300" stop="20200113233000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Central Fox</title>
     <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
     <date>1997</date>
@@ -1966,6 +1665,40 @@
     <country>México</country>
     <country>Argentina</country>
   </programme>
+  <programme start="20200113233000 -0300" stop="20200114010000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
+  </programme>
+  <programme start="20200114010000 -0300" stop="20200114020000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Rally</title>
+  </programme>
+  <programme start="20200114020000 -0300" stop="20200114040000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
+  <programme start="20200114040000 -0300" stop="20200114050000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Show</title>
+  </programme>
   <programme start="20200114120000 -0300" stop="20200114140000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Gremio vs. Libertad</title>
   </programme>
@@ -1978,82 +1711,122 @@
   <programme start="20200115120000 -0300" stop="20200115140000 -0300" channel="Canal Fox Sports (Chile)">
     <title lang="es">Palmeiras vs. Godoy Cruz</title>
   </programme>
-  <programme start="20200111013000 -0300" stop="20200111020000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Expediente S</title>
+  <programme start="20200115140000 -0300" stop="20200115233000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Liverpool vs. Salzburg</title>
   </programme>
-  <programme start="20200111020000 -0300" stop="20200111030000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Sacudete</title>
+  <programme start="20200115233000 -0300" stop="20200115233000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Wwe nxt</title>
   </programme>
-  <programme start="20200111030000 -0300" stop="20200111060000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Cierre de estación</title>
+  <programme start="20200115233000 -0300" stop="20200116003000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Wwe nxt</title>
   </programme>
-  <programme start="20200111060000 -0300" stop="20200111070000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Chapulín Colorado</title>
+  <programme start="20200116003000 -0300" stop="20200116010000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Rally</title>
   </programme>
-  <programme start="20200111070000 -0300" stop="20200111080000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Los Animales Más Graciosos del Mundo</title>
+  <programme start="20200116020000 -0300" stop="20200116040000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Radio</title>
   </programme>
-  <programme start="20200111080000 -0300" stop="20200111083000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Antena 3D</title>
+  <programme start="20200116040000 -0300" stop="20200116050000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Show</title>
   </programme>
-  <programme start="20200111083000 -0300" stop="20200111090000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Iglesia Universal</title>
+  <programme start="20200116050000 -0300" stop="20200116063000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
   </programme>
-  <programme start="20200111090000 -0300" stop="20200111100000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Antena 3D</title>
+  <programme start="20200116063000 -0300" stop="20200116070000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Rally</title>
   </programme>
-  <programme start="20200111100000 -0300" stop="20200111110000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Antena 3D</title>
+  <programme start="20200116070000 -0300" stop="20200116080000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Show</title>
   </programme>
-  <programme start="20200111110000 -0300" stop="20200111140000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Hola Chile</title>
+  <programme start="20200116080000 -0300" stop="20200116093000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
   </programme>
-  <programme start="20200111140000 -0300" stop="20200111150000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Plaza Sesamo</title>
+  <programme start="20200116093000 -0300" stop="20200116110000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano(n)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country>México</country>
+    <country>Argentina</country>
   </programme>
-  <programme start="20200111150000 -0300" stop="20200111160000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Comisario Rex</title>
+  <programme start="20200116110000 -0300" stop="20200116120000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Show</title>
   </programme>
-  <programme start="20200111160000 -0300" stop="20200111164500 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">WWE Raw</title>
+  <programme start="20200116120000 -0300" stop="20200116140000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Cerro Porteño vs. San Lorenzo</title>
   </programme>
-  <programme start="20200111164500 -0300" stop="20200111174500 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Alerta Cobra</title>
+  <programme start="20200116140000 -0300" stop="20200116160000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Valencia CF vs. Ajax</title>
   </programme>
-  <programme start="20200111174500 -0300" stop="20200111183000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Como dice el dicho</title>
+  <programme start="20200116160000 -0300" stop="20200116170000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Sports Show</title>
   </programme>
-  <programme start="20200111183000 -0300" stop="20200111191500 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">La Rosa de Guadalupe</title>
+  <programme start="20200116170000 -0300" stop="20200116180000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Rally</title>
   </programme>
-  <programme start="20200111191500 -0300" stop="20200111201500 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Números</title>
-  </programme>
-  <programme start="20200111201500 -0300" stop="20200111210000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Extant</title>
-  </programme>
-  <programme start="20200111210000 -0300" stop="20200111220000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Scorpion</title>
-  </programme>
-  <programme start="20200111220000 -0300" stop="20200111230000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">The Walking Dead</title>
-    <desc lang="es">Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies(n)</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Jon Bernthal</actor>
-      <actor>Sarah Wayne Callies</actor>
-      <composer>Bear McCreary</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Serie</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_walking_dead.png" />
-  </programme>
-  <programme start="20200111230000 -0300" stop="20200112000000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">Cultura verdadera</title>
-  </programme>
-  <programme start="20200112000000 -0300" stop="20200112010000 -0300" channel="Canal La Red (Chile)">
-    <title lang="es">El Tira</title>
+  <programme start="20200116180000 -0300" stop="20200116200000 -0300" channel="Canal Fox Sports (Chile)">
+    <title lang="es">Fox Gol Verano</title>
   </programme>
   <programme start="20200112010000 -0300" stop="20200112014500 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Sacudete</title>
@@ -2094,8 +1867,14 @@
   <programme start="20200112110000 -0300" stop="20200112130000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Cada Día Mejor</title>
   </programme>
-  <programme start="20200112130000 -0300" stop="20200112160000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20200112130000 -0300" stop="20200112140000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Cara a Cara</title>
+  </programme>
+  <programme start="20200112140000 -0300" stop="20200112150000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20200112150000 -0300" stop="20200112160000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Comisario Rex</title>
   </programme>
   <programme start="20200112160000 -0300" stop="20200112163000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Será Anunciado</title>
@@ -2203,8 +1982,17 @@
   <programme start="20200113220000 -0300" stop="20200113223000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Mentiras verdaderas</title>
   </programme>
-  <programme start="20200113223000 -0300" stop="20200114030000 -0300" channel="Canal La Red (Chile)">
+  <programme start="20200113223000 -0300" stop="20200114000000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20200114000000 -0300" stop="20200114013000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20200114013000 -0300" stop="20200114020000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Expediente S</title>
+  </programme>
+  <programme start="20200114020000 -0300" stop="20200114030000 -0300" channel="Canal La Red (Chile)">
+    <title lang="es">Sacudete</title>
   </programme>
   <programme start="20200114030000 -0300" stop="20200114043000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Mentiras verdaderas</title>
@@ -2212,115 +2000,63 @@
   <programme start="20200114043000 -0300" stop="20200114060000 -0300" channel="Canal La Red (Chile)">
     <title lang="es">Así somos</title>
   </programme>
-  <programme start="20200111001000 -0300" stop="20200111010500 -0300" channel="Canal Mega HD">
+  <programme start="20200112010000 -0300" stop="20200112015000 -0300" channel="Canal Mega HD">
     <title lang="es">Genios de la carne</title>
+    <episode-num>E102</episode-num>
   </programme>
-  <programme start="20200111010500 -0300" stop="20200111025000 -0300" channel="Canal Mega HD">
-    <title lang="es">¿Y tú quién eres</title>
-  </programme>
-  <programme start="20200111025000 -0300" stop="20200111070000 -0300" channel="Canal Mega HD">
+  <programme start="20200112015000 -0300" stop="20200112070000 -0300" channel="Canal Mega HD">
     <title lang="es">Cierre de estación</title>
   </programme>
-  <programme start="20200111070000 -0300" stop="20200111080000 -0300" channel="Canal Mega HD">
-    <title lang="es">Mundo Plus Vanguardia</title>
+  <programme start="20200112070000 -0300" stop="20200112080000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias Plus Prime</title>
   </programme>
-  <programme start="20200111080000 -0300" stop="20200111083000 -0300" channel="Canal Mega HD">
+  <programme start="20200112080000 -0300" stop="20200112083000 -0300" channel="Canal Mega HD">
     <title lang="es">Cake Boss</title>
   </programme>
-  <programme start="20200111083000 -0300" stop="20200111090000 -0300" channel="Canal Mega HD">
+  <programme start="20200112083000 -0300" stop="20200112090000 -0300" channel="Canal Mega HD">
     <title lang="es">Cake Boss</title>
   </programme>
-  <programme start="20200111090000 -0300" stop="20200111100000 -0300" channel="Canal Mega HD">
+  <programme start="20200112090000 -0300" stop="20200112100000 -0300" channel="Canal Mega HD">
     <title lang="es">A orillas del río</title>
   </programme>
-  <programme start="20200111100000 -0300" stop="20200111110000 -0300" channel="Canal Mega HD">
+  <programme start="20200112100000 -0300" stop="20200112110000 -0300" channel="Canal Mega HD">
     <title lang="es">Vuelta a la Manzana</title>
   </programme>
-  <programme start="20200111110000 -0300" stop="20200111120000 -0300" channel="Canal Mega HD">
-    <title lang="es">Bicitantes</title>
-  </programme>
-  <programme start="20200111120000 -0300" stop="20200111130000 -0300" channel="Canal Mega HD">
-    <title lang="es">Selección internacional España</title>
-  </programme>
-  <programme start="20200111130000 -0300" stop="20200111140000 -0300" channel="Canal Mega HD">
-    <title lang="es">Seleccion nacional</title>
-  </programme>
-  <programme start="20200111140000 -0300" stop="20200111150000 -0300" channel="Canal Mega HD">
-    <title lang="es">Meganoticias Reportajes</title>
-  </programme>
-  <programme start="20200111150000 -0300" stop="20200111163000 -0300" channel="Canal Mega HD">
-    <title lang="es">Verdades ocultas</title>
-  </programme>
-  <programme start="20200111163000 -0300" stop="20200111183000 -0300" channel="Canal Mega HD">
-    <title lang="es">Kilos mortales</title>
-  </programme>
-  <programme start="20200111183000 -0300" stop="20200111193000 -0300" channel="Canal Mega HD">
-    <title lang="es">Secretos Urbanos</title>
-  </programme>
-  <programme start="20200111193000 -0300" stop="20200111210000 -0300" channel="Canal Mega HD">
-    <title lang="es">Yo soy Lorenzo</title>
-  </programme>
-  <programme start="20200111210000 -0300" stop="20200111221000 -0300" channel="Canal Mega HD">
-    <title lang="es">Meganoticias Prime</title>
-  </programme>
-  <programme start="20200111221000 -0300" stop="20200111221500 -0300" channel="Canal Mega HD">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20200111221500 -0300" stop="20200111231500 -0300" channel="Canal Mega HD">
-    <title lang="es">¿Y tú quién eres</title>
-  </programme>
-  <programme start="20200111231500 -0300" stop="20200112000000 -0300" channel="Canal Mega HD">
-    <title lang="es">Las mil y una noches</title>
-  </programme>
-  <programme start="20200112000000 -0300" stop="20200112010000 -0300" channel="Canal Mega HD">
-    <title lang="es">Comer y sanar</title>
-  </programme>
-  <programme start="20200112010000 -0300" stop="20200112070000 -0300" channel="Canal Mega HD">
-    <title lang="es">Cierre de estación</title>
-  </programme>
   <programme start="20200112110000 -0300" stop="20200112120000 -0300" channel="Canal Mega HD">
-    <title lang="es">Crónicas de un Bicitante</title>
+    <title lang="es">La Celebración</title>
   </programme>
   <programme start="20200112120000 -0300" stop="20200112130000 -0300" channel="Canal Mega HD">
     <title lang="es">Comer y sanar</title>
+    <episode-num>E103</episode-num>
   </programme>
-  <programme start="20200112130000 -0300" stop="20200112163000 -0300" channel="Canal Mega HD">
-    <title lang="es">Selección Internacional</title>
+  <programme start="20200112130000 -0300" stop="20200112150000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias actualiza</title>
   </programme>
-  <programme start="20200112163000 -0300" stop="20200112173000 -0300" channel="Canal Mega HD">
-    <title lang="es">A la medida</title>
+  <programme start="20200112150000 -0300" stop="20200112170000 -0300" channel="Canal Mega HD">
+    <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20200112173000 -0300" stop="20200112183000 -0300" channel="Canal Mega HD">
-    <title lang="es">A la medida</title>
+  <programme start="20200112170000 -0300" stop="20200112183000 -0300" channel="Canal Mega HD">
+    <title lang="es">Eres mi tesoro</title>
   </programme>
-  <programme start="20200112183000 -0300" stop="20200112193000 -0300" channel="Canal Mega HD">
-    <title lang="es">Seleccion nacional</title>
+  <programme start="20200112183000 -0300" stop="20200112210000 -0300" channel="Canal Mega HD">
+    <title lang="es">Ant-Man El hombre hormiga</title>
   </programme>
-  <programme start="20200112193000 -0300" stop="20200112210000 -0300" channel="Canal Mega HD">
-    <title lang="es">Yo soy Lorenzo</title>
-  </programme>
-  <programme start="20200112210000 -0300" stop="20200112220000 -0300" channel="Canal Mega HD">
+  <programme start="20200112210000 -0300" stop="20200112223000 -0300" channel="Canal Mega HD">
     <title lang="es">Meganoticias Prime</title>
-  </programme>
-  <programme start="20200112220000 -0300" stop="20200112223000 -0300" channel="Canal Mega HD">
-    <title lang="es">Misión encubierta</title>
   </programme>
   <programme start="20200112223000 -0300" stop="20200112223500 -0300" channel="Canal Mega HD">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20200112223500 -0300" stop="20200112232000 -0300" channel="Canal Mega HD">
-    <title lang="es">Juegos de poder</title>
+  <programme start="20200112223500 -0300" stop="20200113003000 -0300" channel="Canal Mega HD">
+    <title lang="es">¿Quién Quiere Ser Millonario</title>
   </programme>
-  <programme start="20200112232000 -0300" stop="20200113002000 -0300" channel="Canal Mega HD">
+  <programme start="20200113003000 -0300" stop="20200113012000 -0300" channel="Canal Mega HD">
     <title lang="es">Crash</title>
   </programme>
-  <programme start="20200113002000 -0300" stop="20200113011000 -0300" channel="Canal Mega HD">
-    <title lang="es">Stiletto Vendetta</title>
-  </programme>
-  <programme start="20200113011000 -0300" stop="20200113015000 -0300" channel="Canal Mega HD">
+  <programme start="20200113012000 -0300" stop="20200113020000 -0300" channel="Canal Mega HD">
     <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200113015000 -0300" stop="20200113054500 -0300" channel="Canal Mega HD">
+  <programme start="20200113020000 -0300" stop="20200113054500 -0300" channel="Canal Mega HD">
     <title lang="es">Cierre de estación</title>
   </programme>
   <programme start="20200113054500 -0300" stop="20200113063000 -0300" channel="Canal Mega HD">
@@ -2341,167 +2077,167 @@
   <programme start="20200113152000 -0300" stop="20200113155000 -0300" channel="Canal Mega HD">
     <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20200113155000 -0300" stop="20200113163000 -0300" channel="Canal Mega HD">
+  <programme start="20200113155000 -0300" stop="20200113161000 -0300" channel="Canal Mega HD">
     <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20200113163000 -0300" stop="20200113174000 -0300" channel="Canal Mega HD">
+  <programme start="20200113161000 -0300" stop="20200113171000 -0300" channel="Canal Mega HD">
+    <title lang="es">Eres mi tesoro</title>
+  </programme>
+  <programme start="20200113171000 -0300" stop="20200113180000 -0300" channel="Canal Mega HD">
+    <title lang="es">Nuevo sol</title>
+  </programme>
+  <programme start="20200113180000 -0300" stop="20200113185000 -0300" channel="Canal Mega HD">
+    <title lang="es">El pañuelo rojo</title>
+  </programme>
+  <programme start="20200113185000 -0300" stop="20200113194000 -0300" channel="Canal Mega HD">
     <title lang="es">El otro lado del paraíso</title>
   </programme>
-  <programme start="20200113174000 -0300" stop="20200113185000 -0300" channel="Canal Mega HD">
-    <title lang="es">Stiletto Vendetta</title>
-  </programme>
-  <programme start="20200113185000 -0300" stop="20200113194500 -0300" channel="Canal Mega HD">
+  <programme start="20200113194000 -0300" stop="20200113195500 -0300" channel="Canal Mega HD">
     <title lang="es">Las mil y una noches</title>
   </programme>
-  <programme start="20200113194500 -0300" stop="20200113195000 -0300" channel="Canal Mega HD">
+  <programme start="20200113195500 -0300" stop="20200113200000 -0300" channel="Canal Mega HD">
     <title lang="es">Avance Meganoticias</title>
   </programme>
-  <programme start="20200113195000 -0300" stop="20200113202000 -0300" channel="Canal Mega HD">
+  <programme start="20200113200000 -0300" stop="20200113204500 -0300" channel="Canal Mega HD">
+    <title lang="es">Las mil y una noches</title>
+  </programme>
+  <programme start="20200113204500 -0300" stop="20200113210000 -0300" channel="Canal Mega HD">
     <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200113202000 -0300" stop="20200113210000 -0300" channel="Canal Mega HD">
+  <programme start="20200113210000 -0300" stop="20200113212500 -0300" channel="Canal Mega HD">
     <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200113210000 -0300" stop="20200113222000 -0300" channel="Canal Mega HD">
+  <programme start="20200113212500 -0300" stop="20200113223000 -0300" channel="Canal Mega HD">
     <title lang="es">Meganoticias Prime</title>
   </programme>
-  <programme start="20200113222000 -0300" stop="20200113222500 -0300" channel="Canal Mega HD">
+  <programme start="20200113223000 -0300" stop="20200113223500 -0300" channel="Canal Mega HD">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20200113222500 -0300" stop="20200113232000 -0300" channel="Canal Mega HD">
-    <title lang="es">Juegos de poder</title>
+  <programme start="20200113223500 -0300" stop="20200113233000 -0300" channel="Canal Mega HD">
+    <title lang="es">100 días para enamorarse</title>
   </programme>
-  <programme start="20200113232000 -0300" stop="20200114002000 -0300" channel="Canal Mega HD">
+  <programme start="20200113233000 -0300" stop="20200113233000 -0300" channel="Canal Mega HD">
     <title lang="es">¿Qué culpa tiene Fatmagul</title>
   </programme>
-  <programme start="20200114002000 -0300" stop="20200114010500 -0300" channel="Canal Mega HD">
-    <title lang="es">Stiletto Vendetta</title>
+  <programme start="20200113233000 -0300" stop="20200114004500 -0300" channel="Canal Mega HD">
+    <title lang="es">¿Qué culpa tiene Fatmagul</title>
   </programme>
-  <programme start="20200114010500 -0300" stop="20200114014000 -0300" channel="Canal Mega HD">
+  <programme start="20200114004500 -0300" stop="20200114013000 -0300" channel="Canal Mega HD">
     <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200114014000 -0300" stop="20200114054500 -0300" channel="Canal Mega HD">
+  <programme start="20200114013000 -0300" stop="20200114054500 -0300" channel="Canal Mega HD">
     <title lang="es">Cierre de estación</title>
   </programme>
-  <programme start="20200111003000 -0300" stop="20200111010000 -0300" channel="Canal TV Chile">
-    <title lang="es">Exploradores</title>
+  <programme start="20200114054500 -0300" stop="20200114063000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias amanece</title>
   </programme>
-  <programme start="20200111010000 -0300" stop="20200111021500 -0300" channel="Canal TV Chile">
-    <title lang="es">Conectados</title>
+  <programme start="20200114063000 -0300" stop="20200114080000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias conecta</title>
   </programme>
-  <programme start="20200111021500 -0300" stop="20200111024500 -0300" channel="Canal TV Chile">
-    <title lang="es">El especialista responde</title>
+  <programme start="20200114080000 -0300" stop="20200114130000 -0300" channel="Canal Mega HD">
+    <title lang="es">Mucho gusto</title>
   </programme>
-  <programme start="20200111024500 -0300" stop="20200111050000 -0300" channel="Canal TV Chile">
-    <title lang="es">Rojo, el color del talento</title>
+  <programme start="20200114130000 -0300" stop="20200114151500 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias actualiza</title>
   </programme>
-  <programme start="20200111050000 -0300" stop="20200111063000 -0300" channel="Canal TV Chile">
-    <title lang="es">Carmen Gloria a tu servicio</title>
+  <programme start="20200114151500 -0300" stop="20200114152000 -0300" channel="Canal Mega HD">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20200111063000 -0300" stop="20200111073000 -0300" channel="Canal TV Chile">
-    <title lang="es">Sin corbata</title>
+  <programme start="20200114152000 -0300" stop="20200114155000 -0300" channel="Canal Mega HD">
+    <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20200111073000 -0300" stop="20200111080000 -0300" channel="Canal TV Chile">
-    <title lang="es">Chile al Día</title>
+  <programme start="20200114155000 -0300" stop="20200114161000 -0300" channel="Canal Mega HD">
+    <title lang="es">Verdades ocultas</title>
   </programme>
-  <programme start="20200111080000 -0300" stop="20200111090000 -0300" channel="Canal TV Chile">
-    <title lang="es">La sangre tira</title>
+  <programme start="20200114161000 -0300" stop="20200114171000 -0300" channel="Canal Mega HD">
+    <title lang="es">Eres mi tesoro</title>
   </programme>
-  <programme start="20200111090000 -0300" stop="20200111100000 -0300" channel="Canal TV Chile">
-    <title lang="es">Había Una Vez, El Archivo del Deporte</title>
+  <programme start="20200114171000 -0300" stop="20200114180000 -0300" channel="Canal Mega HD">
+    <title lang="es">Nuevo sol</title>
   </programme>
-  <programme start="20200111100000 -0300" stop="20200111120000 -0300" channel="Canal TV Chile">
-    <title lang="es">Conectados</title>
+  <programme start="20200114180000 -0300" stop="20200114185000 -0300" channel="Canal Mega HD">
+    <title lang="es">El pañuelo rojo</title>
   </programme>
-  <programme start="20200111120000 -0300" stop="20200111130000 -0300" channel="Canal TV Chile">
-    <title lang="es">Chile Conectado</title>
+  <programme start="20200114185000 -0300" stop="20200114194000 -0300" channel="Canal Mega HD">
+    <title lang="es">El otro lado del paraíso</title>
   </programme>
-  <programme start="20200111130000 -0300" stop="20200111143000 -0300" channel="Canal TV Chile">
-    <title lang="es">24 Tarde</title>
+  <programme start="20200114194000 -0300" stop="20200114195500 -0300" channel="Canal Mega HD">
+    <title lang="es">Las mil y una noches</title>
   </programme>
-  <programme start="20200111143000 -0300" stop="20200111163000 -0300" channel="Canal TV Chile">
-    <title lang="es">Semana 24</title>
+  <programme start="20200114195500 -0300" stop="20200114200000 -0300" channel="Canal Mega HD">
+    <title lang="es">Avance Meganoticias</title>
   </programme>
-  <programme start="20200111163000 -0300" stop="20200111173000 -0300" channel="Canal TV Chile">
-    <title lang="es">Había Una Vez, El Archivo del Deporte</title>
+  <programme start="20200114200000 -0300" stop="20200114204500 -0300" channel="Canal Mega HD">
+    <title lang="es">Las mil y una noches</title>
   </programme>
-  <programme start="20200111173000 -0300" stop="20200111193000 -0300" channel="Canal TV Chile">
-    <title lang="es">Retro</title>
+  <programme start="20200114204500 -0300" stop="20200114210000 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200111193000 -0300" stop="20200111200000 -0300" channel="Canal TV Chile">
-    <title lang="es">Sesiones 24H</title>
+  <programme start="20200114210000 -0300" stop="20200114212500 -0300" channel="Canal Mega HD">
+    <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200111200000 -0300" stop="20200111210000 -0300" channel="Canal TV Chile">
-    <title lang="es">La sangre tira</title>
+  <programme start="20200114212500 -0300" stop="20200114223000 -0300" channel="Canal Mega HD">
+    <title lang="es">Meganoticias Prime</title>
   </programme>
-  <programme start="20200111210000 -0300" stop="20200111223000 -0300" channel="Canal TV Chile">
-    <title lang="es">24 Horas Central</title>
+  <programme start="20200114223000 -0300" stop="20200114223500 -0300" channel="Canal Mega HD">
+    <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20200111223000 -0300" stop="20200111230000 -0300" channel="Canal TV Chile">
-    <title lang="es">Sesiones 24H</title>
+  <programme start="20200114223500 -0300" stop="20200115161000 -0300" channel="Canal Mega HD">
+    <title lang="es">100 días para enamorarse</title>
   </programme>
-  <programme start="20200111230000 -0300" stop="20200112003000 -0300" channel="Canal TV Chile">
-    <title lang="es">Prueba de humor</title>
+  <programme start="20200115161000 -0300" stop="20200115171000 -0300" channel="Canal Mega HD">
+    <title lang="es">Eres mi tesoro</title>
   </programme>
-  <programme start="20200112003000 -0300" stop="20200112013000 -0300" channel="Canal TV Chile">
+  <programme start="20200112010000 -0300" stop="20200112020000 -0300" channel="Canal TV Chile">
     <title lang="es">Fruto Del País</title>
   </programme>
-  <programme start="20200112013000 -0300" stop="20200112033000 -0300" channel="Canal TV Chile">
-    <title lang="es">Retro</title>
+  <programme start="20200112020000 -0300" stop="20200112030000 -0300" channel="Canal TV Chile">
+    <title lang="es">Santiago Paranormal</title>
   </programme>
-  <programme start="20200112033000 -0300" stop="20200112043000 -0300" channel="Canal TV Chile">
+  <programme start="20200112030000 -0300" stop="20200112040000 -0300" channel="Canal TV Chile">
+    <title lang="es">Gen Nómade</title>
+  </programme>
+  <programme start="20200112040000 -0300" stop="20200112050000 -0300" channel="Canal TV Chile">
     <title lang="es">Chile Conectado</title>
   </programme>
-  <programme start="20200112043000 -0300" stop="20200112050000 -0300" channel="Canal TV Chile">
+  <programme start="20200112050000 -0300" stop="20200112053000 -0300" channel="Canal TV Chile">
     <title lang="es">Sesiones 24H</title>
   </programme>
-  <programme start="20200112050000 -0300" stop="20200112053000 -0300" channel="Canal TV Chile">
-    <title lang="es">El especialista responde</title>
-  </programme>
   <programme start="20200112053000 -0300" stop="20200112063000 -0300" channel="Canal TV Chile">
-    <title lang="es">La sangre tira</title>
+    <title lang="es">Prueba de humor</title>
   </programme>
   <programme start="20200112063000 -0300" stop="20200112073000 -0300" channel="Canal TV Chile">
-    <title lang="es">Había Una Vez, El Archivo del Deporte</title>
+    <title lang="es">Gen Nómade</title>
   </programme>
-  <programme start="20200112073000 -0300" stop="20200112083000 -0300" channel="Canal TV Chile">
-    <title lang="es">Chile ancho</title>
+  <programme start="20200112073000 -0300" stop="20200112080000 -0300" channel="Canal TV Chile">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200112080000 -0300" stop="20200112083000 -0300" channel="Canal TV Chile">
+    <title lang="es">Exploradores</title>
   </programme>
   <programme start="20200112083000 -0300" stop="20200112093000 -0300" channel="Canal TV Chile">
-    <title lang="es">Sin corbata</title>
+    <title lang="es">Prueba de humor</title>
   </programme>
   <programme start="20200112093000 -0300" stop="20200112100000 -0300" channel="Canal TV Chile">
     <title lang="es">24 Horas a la Hora</title>
   </programme>
-  <programme start="20200112100000 -0300" stop="20200112120000 -0300" channel="Canal TV Chile">
+  <programme start="20200112100000 -0300" stop="20200112123000 -0300" channel="Canal TV Chile">
     <title lang="es">Estado Nacional</title>
   </programme>
-  <programme start="20200112120000 -0300" stop="20200112130000 -0300" channel="Canal TV Chile">
-    <title lang="es">Fruto Del País</title>
-  </programme>
-  <programme start="20200112130000 -0300" stop="20200112133000 -0300" channel="Canal TV Chile">
-    <title lang="es">24 Horas a la Hora</title>
+  <programme start="20200112123000 -0300" stop="20200112133000 -0300" channel="Canal TV Chile">
+    <title lang="es">Como Nacen Los Chilenos</title>
   </programme>
   <programme start="20200112133000 -0300" stop="20200112143000 -0300" channel="Canal TV Chile">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20200112143000 -0300" stop="20200112153000 -0300" channel="Canal TV Chile">
-    <title lang="es">Requiem de Chile</title>
+  <programme start="20200112143000 -0300" stop="20200112150000 -0300" channel="Canal TV Chile">
+    <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20200112153000 -0300" stop="20200112163000 -0300" channel="Canal TV Chile">
-    <title lang="es">Chile Conectado</title>
-  </programme>
-  <programme start="20200112163000 -0300" stop="20200112173000 -0300" channel="Canal TV Chile">
-    <title lang="es">Fruto Del País</title>
-  </programme>
-  <programme start="20200112173000 -0300" stop="20200112190000 -0300" channel="Canal TV Chile">
+  <programme start="20200112150000 -0300" stop="20200112170000 -0300" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20200112190000 -0300" stop="20200112203000 -0300" channel="Canal TV Chile">
+  <programme start="20200112170000 -0300" stop="20200112210000 -0300" channel="Canal TV Chile">
     <title lang="es">Hijos del Monte</title>
-  </programme>
-  <programme start="20200112203000 -0300" stop="20200112210000 -0300" channel="Canal TV Chile">
-    <title lang="es">Especial de Prensa</title>
   </programme>
   <programme start="20200112210000 -0300" stop="20200112223000 -0300" channel="Canal TV Chile">
     <title lang="es">24 Horas Central</title>
@@ -2509,20 +2245,20 @@
   <programme start="20200112223000 -0300" stop="20200112233000 -0300" channel="Canal TV Chile">
     <title lang="es">Santiago Paranormal</title>
   </programme>
-  <programme start="20200112233000 -0300" stop="20200112233000 -0300" channel="Canal TV Chile">
+  <programme start="20200112233000 -0300" stop="20200113020000 -0300" channel="Canal TV Chile">
     <title lang="es">Estado Nacional</title>
   </programme>
-  <programme start="20200112233000 -0300" stop="20200113013000 -0300" channel="Canal TV Chile">
-    <title lang="es">Estado Nacional</title>
+  <programme start="20200113020000 -0300" stop="20200113030000 -0300" channel="Canal TV Chile">
+    <title lang="es">Cazadores de Fakes</title>
   </programme>
-  <programme start="20200113013000 -0300" stop="20200113024500 -0300" channel="Canal TV Chile">
-    <title lang="es">No culpes a la noche</title>
+  <programme start="20200113030000 -0300" stop="20200113033000 -0300" channel="Canal TV Chile">
+    <title lang="es">Exploradores</title>
   </programme>
-  <programme start="20200113024500 -0300" stop="20200113050000 -0300" channel="Canal TV Chile">
+  <programme start="20200113033000 -0300" stop="20200113053000 -0300" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
   <programme start="20200113053000 -0300" stop="20200113063000 -0300" channel="Canal TV Chile">
-    <title lang="es">Sin corbata</title>
+    <title lang="es">Gen Nómade</title>
   </programme>
   <programme start="20200113063000 -0300" stop="20200113080000 -0300" channel="Canal TV Chile">
     <title lang="es">24 AM</title>
@@ -2537,13 +2273,13 @@
     <title lang="es">Conectados</title>
   </programme>
   <programme start="20200113163000 -0300" stop="20200113173000 -0300" channel="Canal TV Chile">
-    <title lang="es">Hijos del Monte</title>
+    <title lang="es">Prueba de humor</title>
   </programme>
-  <programme start="20200113173000 -0300" stop="20200113190000 -0300" channel="Canal TV Chile">
+  <programme start="20200113173000 -0300" stop="20200113180000 -0300" channel="Canal TV Chile">
+    <title lang="es">Sesiones 24H</title>
+  </programme>
+  <programme start="20200113180000 -0300" stop="20200113210000 -0300" channel="Canal TV Chile">
     <title lang="es">Carmen Gloria a tu servicio</title>
-  </programme>
-  <programme start="20200113190000 -0300" stop="20200113210000 -0300" channel="Canal TV Chile">
-    <title lang="es">Rojo, el color del talento</title>
   </programme>
   <programme start="20200113210000 -0300" stop="20200113224000 -0300" channel="Canal TV Chile">
     <title lang="es">24 Horas Central</title>
@@ -2557,74 +2293,110 @@
   <programme start="20200114000000 -0300" stop="20200114011500 -0300" channel="Canal TV Chile">
     <title lang="es">Conectados</title>
   </programme>
-  <programme start="20200114011500 -0300" stop="20200114021500 -0300" channel="Canal TV Chile">
-    <title lang="es">No culpes a la noche</title>
+  <programme start="20200114011500 -0300" stop="20200114014500 -0300" channel="Canal TV Chile">
+    <title lang="es">Sesiones 24H</title>
   </programme>
-  <programme start="20200114021500 -0300" stop="20200114024500 -0300" channel="Canal TV Chile">
+  <programme start="20200114014500 -0300" stop="20200114021500 -0300" channel="Canal TV Chile">
     <title lang="es">Medianoche</title>
   </programme>
-  <programme start="20200114024500 -0300" stop="20200114050000 -0300" channel="Canal TV Chile">
-    <title lang="es">Rojo, el color del talento</title>
-  </programme>
-  <programme start="20200114050000 -0300" stop="20200114063000 -0300" channel="Canal TV Chile">
+  <programme start="20200114021500 -0300" stop="20200114053000 -0300" channel="Canal TV Chile">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20200114224000 -0300" stop="20200115163000 -0300" channel="Canal TV Chile">
-    <title lang="es">Llegó tu hora</title>
+  <programme start="20200114053000 -0300" stop="20200114063000 -0300" channel="Canal TV Chile">
+    <title lang="es">Chile Conectado</title>
   </programme>
-  <programme start="20200114230000 -0300" stop="20200114230000 -0300" channel="Canal TV Chile">
+  <programme start="20200114163000 -0300" stop="20200114230000 -0300" channel="Canal TV Chile">
+    <title lang="es">Hijos del Monte</title>
+  </programme>
+  <programme start="20200114230000 -0300" stop="20200115053000 -0300" channel="Canal TV Chile">
     <title lang="es">La sangre tira</title>
   </programme>
-  <programme start="20200111014500 -0300" stop="20200111020000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">TV tiempo</title>
+  <programme start="20200115053000 -0300" stop="20200115063000 -0300" channel="Canal TV Chile">
+    <title lang="es">La sangre tira</title>
   </programme>
-  <programme start="20200111020000 -0300" stop="20200111070000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Cierre de estación</title>
+  <programme start="20200115230000 -0300" stop="20200116053000 -0300" channel="Canal TV Chile">
+    <title lang="es">Fruto Del País</title>
   </programme>
-  <programme start="20200111070000 -0300" stop="20200111080000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Puertas Abiertas</title>
+  <programme start="20200116053000 -0300" stop="20200116063000 -0300" channel="Canal TV Chile">
+    <title lang="es">Fruto Del País</title>
   </programme>
-  <programme start="20200111080000 -0300" stop="20200111090000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Bloque infantil</title>
+  <programme start="20200116210000 -0300" stop="20200116220000 -0300" channel="Canal TV Chile">
+    <title lang="es">24 Horas Central</title>
   </programme>
-  <programme start="20200111090000 -0300" stop="20200111093000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">La aventura de crecer</title>
+  <programme start="20200116220000 -0300" stop="20200117011500 -0300" channel="Canal TV Chile">
+    <title lang="es">Festival del Huaso de Olmué 2020</title>
   </programme>
-  <programme start="20200111093000 -0300" stop="20200111113000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">El Chavo del Ocho</title>
-    <desc lang="es">Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad(n)</desc>
-    <date>1972</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_chavo_del_ocho.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20200117011500 -0300" stop="20200117060000 -0300" channel="Canal TV Chile">
+    <title lang="es">Festival del Huaso de Olmué 2020</title>
   </programme>
-  <programme start="20200111113000 -0300" stop="20200111130000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Prueba de humor</title>
+  <programme start="20200117060000 -0300" stop="20200117063000 -0300" channel="Canal TV Chile">
+    <title lang="es">Exploradores</title>
   </programme>
-  <programme start="20200111130000 -0300" stop="20200111143000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">24 Tarde</title>
+  <programme start="20200117163000 -0300" stop="20200117220000 -0300" channel="Canal TV Chile">
+    <title lang="es">La sangre tira</title>
   </programme>
-  <programme start="20200111143000 -0300" stop="20200111174500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Será Anunciado</title>
+  <programme start="20200117220000 -0300" stop="20200117220000 -0300" channel="Canal TV Chile">
+    <title lang="es">Festival del Huaso de Olmué 2020</title>
   </programme>
-  <programme start="20200111174500 -0300" stop="20200111190000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200117220000 -0300" stop="20200118003000 -0300" channel="Canal TV Chile">
+    <title lang="es">Festival del Huaso de Olmué 2020</title>
+  </programme>
+  <programme start="20200118003000 -0300" stop="20200118010000 -0300" channel="Canal TV Chile">
+    <title lang="es">Exploradores</title>
+  </programme>
+  <programme start="20200118010000 -0300" stop="20200118021500 -0300" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20200118021500 -0300" stop="20200118024500 -0300" channel="Canal TV Chile">
+    <title lang="es">El especialista responde</title>
+  </programme>
+  <programme start="20200118024500 -0300" stop="20200118050000 -0300" channel="Canal TV Chile">
+    <title lang="es">Rojo, el color del talento</title>
+  </programme>
+  <programme start="20200118050000 -0300" stop="20200118063000 -0300" channel="Canal TV Chile">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20200111190000 -0300" stop="20200111210000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Será Anunciado</title>
+  <programme start="20200118063000 -0300" stop="20200118073000 -0300" channel="Canal TV Chile">
+    <title lang="es">Sin corbata</title>
   </programme>
-  <programme start="20200111210000 -0300" stop="20200111222500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">24 Horas</title>
+  <programme start="20200118073000 -0300" stop="20200118080000 -0300" channel="Canal TV Chile">
+    <title lang="es">Chile al Día</title>
   </programme>
-  <programme start="20200111222500 -0300" stop="20200111223000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">TV tiempo</title>
+  <programme start="20200118080000 -0300" stop="20200118090000 -0300" channel="Canal TV Chile">
+    <title lang="es">La sangre tira</title>
   </programme>
-  <programme start="20200111223000 -0300" stop="20200112003000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Prueba de humor</title>
+  <programme start="20200118090000 -0300" stop="20200118100000 -0300" channel="Canal TV Chile">
+    <title lang="es">Había Una Vez, El Archivo del Deporte</title>
+  </programme>
+  <programme start="20200118100000 -0300" stop="20200118120000 -0300" channel="Canal TV Chile">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20200118120000 -0300" stop="20200118130000 -0300" channel="Canal TV Chile">
+    <title lang="es">Chile Conectado</title>
+  </programme>
+  <programme start="20200118130000 -0300" stop="20200118143000 -0300" channel="Canal TV Chile">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20200118143000 -0300" stop="20200118163000 -0300" channel="Canal TV Chile">
+    <title lang="es">Semana 24</title>
+  </programme>
+  <programme start="20200118163000 -0300" stop="20200118173000 -0300" channel="Canal TV Chile">
+    <title lang="es">Había Una Vez, El Archivo del Deporte</title>
+  </programme>
+  <programme start="20200118173000 -0300" stop="20200118193000 -0300" channel="Canal TV Chile">
+    <title lang="es">Retro</title>
+  </programme>
+  <programme start="20200118193000 -0300" stop="20200118200000 -0300" channel="Canal TV Chile">
+    <title lang="es">Sesiones 24H</title>
+  </programme>
+  <programme start="20200118200000 -0300" stop="20200118223000 -0300" channel="Canal TV Chile">
+    <title lang="es">La sangre tira</title>
+  </programme>
+  <programme start="20200118223000 -0300" stop="20200118230000 -0300" channel="Canal TV Chile">
+    <title lang="es">Sesiones 24H</title>
   </programme>
   <programme start="20200112003000 -0300" stop="20200112021500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Película</title>
+    <title lang="es">Colisión Inminente</title>
   </programme>
   <programme start="20200112021500 -0300" stop="20200112023000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">TV tiempo</title>
@@ -2636,7 +2408,7 @@
     <title lang="es">Santa Misa</title>
   </programme>
   <programme start="20200112083000 -0300" stop="20200112093000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Sin corbata</title>
+    <title lang="es">Gen Nómade</title>
   </programme>
   <programme start="20200112093000 -0300" stop="20200112100000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">24 Horas</title>
@@ -2644,37 +2416,40 @@
   <programme start="20200112100000 -0300" stop="20200112123000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Estado Nacional</title>
   </programme>
-  <programme start="20200112123000 -0300" stop="20200112141500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Será Anunciado</title>
+  <programme start="20200112123000 -0300" stop="20200112133000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Como Nacen Los Chilenos</title>
   </programme>
-  <programme start="20200112141500 -0300" stop="20200112181500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">TV Nacional Chile</title>
+  <programme start="20200112133000 -0300" stop="20200112143000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20200112181500 -0300" stop="20200112191000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Chile conectado</title>
+  <programme start="20200112143000 -0300" stop="20200112183000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Comparte la Cultura</title>
   </programme>
-  <programme start="20200112191000 -0300" stop="20200112200500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Frutos del país</title>
+  <programme start="20200112183000 -0300" stop="20200112210000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Voleibol masculino clasificatorio Tokio 2020 CSV</title>
   </programme>
-  <programme start="20200112200500 -0300" stop="20200112210000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Chile ancho</title>
-  </programme>
-  <programme start="20200112210000 -0300" stop="20200112222500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200112210000 -0300" stop="20200112223000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20200112222500 -0300" stop="20200112223000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200112223000 -0300" stop="20200112223500 -0300" channel="Canal TVN (Chile)">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20200112223000 -0300" stop="20200112233000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Sin parche</title>
+  <programme start="20200112223500 -0300" stop="20200112233000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Hercai</title>
   </programme>
-  <programme start="20200112233000 -0300" stop="20200113004500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">No culpes a la noche</title>
+  <programme start="20200112233000 -0300" stop="20200112233000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">José de Egipto</title>
   </programme>
-  <programme start="20200113004500 -0300" stop="20200113010000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200112233000 -0300" stop="20200113003000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">José de Egipto</title>
+  </programme>
+  <programme start="20200113003000 -0300" stop="20200113013000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Mea Culpa</title>
+  </programme>
+  <programme start="20200113013000 -0300" stop="20200113014500 -0300" channel="Canal TVN (Chile)">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20200113010000 -0300" stop="20200113054500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200113014500 -0300" stop="20200113054500 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Cierre de estación</title>
   </programme>
   <programme start="20200113054500 -0300" stop="20200113063000 -0300" channel="Canal TVN (Chile)">
@@ -2689,73 +2464,34 @@
   <programme start="20200113130000 -0300" stop="20200113153000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20200113153000 -0300" stop="20200113161500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200113153000 -0300" stop="20200113163000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Hercai</title>
+  </programme>
+  <programme start="20200113163000 -0300" stop="20200113181500 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Elif</title>
   </programme>
-  <programme start="20200113161500 -0300" stop="20200113173000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Elif</title>
-  </programme>
-  <programme start="20200113173000 -0300" stop="20200113190000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200113181500 -0300" stop="20200113210000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20200113190000 -0300" stop="20200113204500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Gran rojo</title>
-  </programme>
-  <programme start="20200113204500 -0300" stop="20200113210000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Avance de Prensa</title>
-  </programme>
   <programme start="20200113210000 -0300" stop="20200113223500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">TV Nacional Chile</title>
+    <title lang="es">24 Horas</title>
   </programme>
   <programme start="20200113223500 -0300" stop="20200113224000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20200113224000 -0300" stop="20200114000000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Esposa joven</title>
+  <programme start="20200113224000 -0300" stop="20200113234000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">Hercai</title>
   </programme>
-  <programme start="20200114000000 -0300" stop="20200114011500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">No culpes a la noche</title>
+  <programme start="20200113234000 -0300" stop="20200114004000 -0300" channel="Canal TVN (Chile)">
+    <title lang="es">José de Egipto</title>
   </programme>
-  <programme start="20200114011500 -0300" stop="20200114014500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200114004000 -0300" stop="20200114011500 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Medianoche</title>
   </programme>
-  <programme start="20200114014500 -0300" stop="20200114020000 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200114011500 -0300" stop="20200114013000 -0300" channel="Canal TVN (Chile)">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20200114020000 -0300" stop="20200114054500 -0300" channel="Canal TVN (Chile)">
+  <programme start="20200114013000 -0300" stop="20200114054500 -0300" channel="Canal TVN (Chile)">
     <title lang="es">Cierre de estación</title>
-  </programme>
-  <programme start="20200114054500 -0300" stop="20200114063000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">La Previa</title>
-  </programme>
-  <programme start="20200114063000 -0300" stop="20200114080000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">24 AM</title>
-  </programme>
-  <programme start="20200114080000 -0300" stop="20200114130000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Muy buenos días</title>
-  </programme>
-  <programme start="20200114130000 -0300" stop="20200114153000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">24 Tarde</title>
-  </programme>
-  <programme start="20200114153000 -0300" stop="20200114161500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Elif</title>
-  </programme>
-  <programme start="20200114161500 -0300" stop="20200114173000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Elif</title>
-  </programme>
-  <programme start="20200114173000 -0300" stop="20200114190000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Carmen Gloria a tu servicio</title>
-  </programme>
-  <programme start="20200114190000 -0300" stop="20200114204500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Gran rojo</title>
-  </programme>
-  <programme start="20200114204500 -0300" stop="20200114210000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">Avance de Prensa</title>
-  </programme>
-  <programme start="20200114210000 -0300" stop="20200114223500 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">TV Nacional Chile</title>
-  </programme>
-  <programme start="20200114223500 -0300" stop="20200114224000 -0300" channel="Canal TVN (Chile)">
-    <title lang="es">TV tiempo</title>
   </programme>
 </tv>
