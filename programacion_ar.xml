@@ -40,11 +40,6 @@
     <icon src="https://mitvstatic.com/channels/ar_tn_m.png" />
     <url>http://www.mi.tv2</url>
   </channel>
-  <channel id="TaTeTi">
-    <display-name lang="es">Tateti (AR)</display-name>
-    <icon src="https://mitvstatic.com/channels/ar_tateti_m.png" />
-    <url>http://www.mi.tv2</url>
-  </channel>
   <channel id="Quiero">
     <display-name lang="es">Quiero Musica (AR)</display-name>
     <icon src="https://mitvstatic.com/channels/ar_quiero_m.png" />
@@ -109,17 +104,17 @@
     <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-espn-w_p_m.jpg" />
   </programme>
-  <programme start="20200115143000 -0400" stop="20200115174500 -0400" channel="ESPN">
+  <programme start="20200115143000 -0400" stop="20200115153000 -0400" channel="ESPN">
     <title lang="es">Tottenham vs. Middlesbrough (?)</title>
     <sub-title lang="es">Compact - F.A. Cup</sub-title>
     <desc lang="es">Uno de los torneos con más historia y tradición del fútbol internacional, ya que se disputa desde 1871: La Football Association Challenge Cup, mejor conocida como F.A. Cup que se juega en Inglaterra(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-tottenham-vs-middlesbrough_p_m.jpg" />
   </programme>
-  <programme start="20200115174500 -0400" stop="20200115190000 -0400" channel="ESPN">
-    <title lang="es">ESPN FC (?)</title>
-    <sub-title lang="es">ESPN FC</sub-title>
-    <desc lang="es">Donde ruede una pelota, allí estaremos con móviles donde la noticia convoque y con las voces autorizadas de nuestros especialistas(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-espn-fc_p_m.jpg" />
+  <programme start="20200115153000 -0400" stop="20200115190000 -0400" channel="ESPN">
+    <title lang="es">Manchester United vs. Wolverhampton (?)</title>
+    <sub-title lang="es">Old Trafford Stadium, Manchester, England</sub-title>
+    <desc lang="es">Uno de los torneos con más historia y tradición del fútbol internacional, ya que se disputa desde la temporada 1871-72: La Football Association Challenge Cup, mejor conocida como F.A. Cup (o Copa de Inglaterra)(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-manchester-united-vs-wolverhampton-old-trafford-stadium-manchester-england_p_m.jpg" />
   </programme>
   <programme start="20200115190000 -0400" stop="20200115200000 -0400" channel="ESPN">
     <title lang="es">Highlights - PGA Tour - Sony Open in Hawaii (?)</title>
@@ -2029,11 +2024,8 @@
   <programme start="20200118143000 -0300" stop="20200118163000 -0300" channel="Canal Fox Sports Premium (Argentina)">
     <title lang="es">RB Leipzig vs. 1</title>
   </programme>
-  <programme start="20200118163000 -0300" stop="20200118170000 -0300" channel="Canal Fox Sports Premium (Argentina)">
+  <programme start="20200118163000 -0300" stop="20200118183000 -0300" channel="Canal Fox Sports Premium (Argentina)">
     <title lang="es">Review</title>
-  </programme>
-  <programme start="20200118170000 -0300" stop="20200118183000 -0300" channel="Canal Fox Sports Premium (Argentina)">
-    <title lang="es">Fox Sports Verano</title>
   </programme>
   <programme start="20200118183000 -0300" stop="20200118190000 -0300" channel="Canal Fox Sports Premium (Argentina)">
     <title lang="es">Bundesliga Carrera por el título</title>
@@ -2605,17 +2597,17 @@
     <desc lang="es">Dani Clos, piloto de Fórmula 1, desafía a los youtubers del momento a palpitar la velocidad y adrenalina en autos deportivos. Derrapes, frenadas y arranques para que ellos prueben su valentía en distintos autódromos del mundo(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-acojonando-youtubers_p_m.jpg" />
   </programme>
-  <programme start="20200115160000 -0400" stop="20200115173000 -0400" channel="El Garage">
+  <programme start="20200115160000 -0400" stop="20200115170000 -0400" channel="El Garage">
     <title lang="es">Auto al día (?)</title>
     <sub-title lang="es">Deportivo</sub-title>
     <desc lang="es">Novedades acerca de la industria automotriz desde una mirada diferente. Aquello que el usuario pretende conocer de un auto podrá saberlo en este gran espacio(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_auto-al-dia_p_m.jpg" />
   </programme>
-  <programme start="20200115173000 -0400" stop="20200115180000 -0400" channel="El Garage">
-    <title lang="es">Visión motor (?)</title>
-    <sub-title lang="es">Visión motor</sub-title>
-    <desc lang="es">Juan Carlos Pérez Loizeau presenta un espacio de análisis sobre la realidad automovilística con su sello de calidad. Porque no basta con saber lo que pasa, también hay que entenderlo(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-vision-motor_p_m.jpg" />
+  <programme start="20200115170000 -0400" stop="20200115180000 -0400" channel="El Garage">
+    <title lang="es">Volando por TV (?)</title>
+    <sub-title lang="es">Volando por TV</sub-title>
+    <desc lang="es">¿Quién dijo que vivir en las nubes es algo malo? ¿Quién dijo que hay que tener los pies sobre la tierra? Un programa que le pone alas a tu televisor. La información más completa sobre la actividad aérea pasa por aquí(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_aviacion-volando-por-tv_p_m.jpg" />
   </programme>
   <programme start="20200115180000 -0400" stop="20200115183000 -0400" channel="El Garage">
     <title lang="es">Especiales de humor: Gato Petters (?)</title>
@@ -4339,23 +4331,23 @@
     <desc lang="es">Matilde, una niña de 12 años, llega al puerto costero a pasar vacaciones con su abuelo. Pero, a medida que transcurre el tiempo, algo insólito sucede y cada día despierta con un nuevo poder que no puede controlar(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_puerto-papel_p_m.jpg" />
   </programme>
-  <programme start="20200115162500 -0400" stop="20200115173000 -0400" channel="Pakapaka">
+  <programme start="20200115162500 -0400" stop="20200115163000 -0400" channel="Pakapaka">
     <title lang="es">Paka Data - Resumen semanal (?)</title>
     <sub-title lang="es">Episodio 218</sub-title>
     <desc lang="es">Un espacio para que los jóvenes encuentren material que les sirva para dialogar y debatir. Además, tendrán un rol protagónico en cada una de las historias que se cuentan(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_paka-data-resumen-semanal-s00e218_p_m.jpg" />
   </programme>
-  <programme start="20200115173000 -0400" stop="20200115174500 -0400" channel="Pakapaka">
+  <programme start="20200115163000 -0400" stop="20200115173000 -0400" channel="Pakapaka">
+    <title lang="es">Superinsectos (?)</title>
+    <sub-title lang="es">Infantil</sub-title>
+    <desc lang="es">Zak es un joven de doce años quien, durante sus vacaciones, se quedará con su abuelo Mac, un aspirante a inventor. Él crea un aparato que hace que cualquier cosa pueda encogerse. Al probar el invento en ellos, hace efecto(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_superinsectos_p_m.jpg" />
+  </programme>
+  <programme start="20200115173000 -0400" stop="20200115181500 -0400" channel="Pakapaka">
     <title lang="es">Petit (?)</title>
     <sub-title lang="es">Infantil</sub-title>
     <desc lang="es">Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_petit_p_m.jpg" />
-  </programme>
-  <programme start="20200115174500 -0400" stop="20200115181500 -0400" channel="Pakapaka">
-    <title lang="es">La asombrosa excursión de Zamba (?)</title>
-    <sub-title lang="es">El asombroso juego de Zamba: Imperio Ruso</sub-title>
-    <desc lang="es">Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_la-asombrosa-excursion-de-zamba-el-asombroso-juego-de-zamba-imperio-ruso_p_m.jpg" />
   </programme>
   <programme start="20200115181500 -0400" stop="20200115183000 -0400" channel="Pakapaka">
     <title lang="es">¡De terror! (?)</title>
@@ -7339,17 +7331,17 @@
     <desc lang="es">Los últimos videos de las bandas más reconocidas, los éxitos musicales de los artistas del momento y los temas más escuchados se dan cita en este espacio(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_lo-que-quiero_p_m.jpg" />
   </programme>
-  <programme start="20200115160000 -0400" stop="20200115173000 -0400" channel="Quiero">
+  <programme start="20200115160000 -0400" stop="20200115170000 -0400" channel="Quiero">
     <title lang="es">#HoyEstáPara (?)</title>
     <sub-title lang="es">Musical</sub-title>
     <desc lang="es">Te despertamos con buena música, videos y comentarios. Además, puedes interactuar a través de las redes sociales usando la etiqueta #Hoyestápara, con la que podrás compartir tu estado de ánimo(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_hoyestapara-1_p_m.jpg" />
   </programme>
-  <programme start="20200115173000 -0400" stop="20200115180000 -0400" channel="Quiero">
-    <title lang="es">Mediatarde (?)</title>
-    <sub-title lang="es">Musical</sub-title>
-    <desc lang="es">Disfruta con los artistas y bandas más destacadas de la música en español de una merienda y actividades típicas argentinas, mientras miramos y charlamos sobre uno de sus videos(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_mediatarde_p_m.jpg" />
+  <programme start="20200115170000 -0400" stop="20200115180000 -0400" channel="Quiero">
+    <title lang="es">Mundo trap (?)</title>
+    <sub-title lang="es">Especial</sub-title>
+    <desc lang="es">Un programa para descubrir y disfrutar los videos del género que conquista el universo musical(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mundo-trap_p_m.jpg" />
   </programme>
   <programme start="20200115180000 -0400" stop="20200115183000 -0400" channel="Quiero">
     <title lang="es">Q noticias (?)</title>
