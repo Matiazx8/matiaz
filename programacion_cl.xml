@@ -116,7 +116,7 @@
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="Canal 9 Bío Bío">
-    <display-name lang="es">TV Senado (CL)</display-name>
+    <display-name lang="es">Canal 9 Bío Bío (CL)</display-name>
     <icon src="https://mitvstatic.com/channels/cl_canal-9-bio-bio_m.png" />
     <url>http://www.mi.tv2</url>
   </channel>
@@ -156,17 +156,17 @@
     <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_los-80_p_m.jpg" />
   </programme>
-  <programme start="20200115164000 -0400" stop="20200115180000 -0400" channel="Canal 13">
+  <programme start="20200115164000 -0400" stop="20200115172000 -0400" channel="Canal 13">
     <title lang="es">Teletrece tarde (?)</title>
     <sub-title lang="es">Noticiero</sub-title>
     <desc lang="es">Informativo de mediodía con toda la actualidad y un resumen de los acontecimientos que trascienden en Chile y el resto del mundo(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-tarde_p_m.jpg" />
   </programme>
-  <programme start="20200115180000 -0400" stop="20200115200000 -0400" channel="Canal 13">
-    <title lang="es">Caso cerrado (?)</title>
-    <sub-title lang="es">Variedades</sub-title>
-    <desc lang="es">En este espacio presenciarás historias más humanas y vivirás las emociones más intensas. Prepárate para llorar y conmoverte con casos que la Dra. Polo buscará resolver de la manera más justa(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_p_m.jpg" />
+  <programme start="20200115172000 -0400" stop="20200115200000 -0400" channel="Canal 13">
+    <title lang="es">Ezel (?)</title>
+    <sub-title lang="es">Telenovela</sub-title>
+    <desc lang="es">Cuenta la historia de Ömer, quien conoce a Eysan y se enamoran. Ésta chica es una joven que vive con su hermana Bahar y su padre Serdar, un estafador que las ha utilizado desde niñas para defraudar a la gente(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ezel_p_m.jpg" />
   </programme>
   <programme start="20200115200000 -0400" stop="20200115213000 -0400" channel="Canal 13">
     <title lang="es">Teletrece (?)</title>
@@ -2047,17 +2047,17 @@
     <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-pelota-parada_p_m.jpg" />
   </programme>
-  <programme start="20200115150000 -0400" stop="20200115180000 -0400" channel="CDF Básico">
+  <programme start="20200115150000 -0400" stop="20200115170000 -0400" channel="CDF Básico">
     <title lang="es">Abrazo de gol (?)</title>
     <sub-title lang="es">Abrazo de gol</sub-title>
     <desc lang="es">Mira Abrazo de Gol, el programa especial del suplemento deportivo de Crónica TV con todo sobre fútbol nacional e internacional(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-abrazo-de-gol_p_m.jpg" />
   </programme>
-  <programme start="20200115180000 -0400" stop="20200115200000 -0400" channel="CDF Básico">
-    <title lang="es">Todos somos técnicos (?)</title>
-    <sub-title lang="es">Todos somos técnicos</sub-title>
-    <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_p_m.jpg" />
+  <programme start="20200115170000 -0400" stop="20200115200000 -0400" channel="CDF Básico">
+    <title lang="es">CDF Noticias - Edición central (?)</title>
+    <sub-title lang="es">CDF Noticias - Edición central</sub-title>
+    <desc lang="es">Espacio que brinda una amplia cobertura a todas las informaciones nacionales e internacionales del ámbito deportivo, llevamos hasta ti lo más actual a importante, para que siempre estés actualizado(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-cdf-noticias-edicion-central_p_m.jpg" />
   </programme>
   <programme start="20200115200000 -0400" stop="20200115205000 -0400" channel="CDF Básico">
     <title lang="es">Rodelindo, del barrio al mundo (?)</title>
@@ -3487,16 +3487,16 @@
     <desc lang="es">La actualidad y las noticias más llamativas del deporte(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_p_m.jpg" />
   </programme>
-  <programme start="20200115153000 -0400" stop="20200115180000 -0400" channel="CNN Chile">
+  <programme start="20200115153000 -0400" stop="20200115163000 -0400" channel="CNN Chile">
     <title lang="es">CNN Magazine (?)</title>
     <sub-title lang="es">Espectáculo</sub-title>
     <desc lang="es">Viviana Encina te presenta las principales noticias del mundo del espectáculo(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
   </programme>
-  <programme start="20200115180000 -0400" stop="20200115190000 -0400" channel="CNN Chile">
-    <title lang="es">En la barra (?)</title>
-    <sub-title lang="es">Periodístico</sub-title>
-    <desc lang="es">Fernando Paulsen conversará con diferentes figuras políticas e influyentes en la agenda nacional de diversos temas, pero también de fútbol(n)</desc>
+  <programme start="20200115163000 -0400" stop="20200115190000 -0400" channel="CNN Chile">
+    <title lang="es">Hoy es noticia (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Matilde Burgos entrega la actualización de las noticias que está marcando la pauta, con análisis y opiniones de sus protagonistas(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_p_m.jpg" />
   </programme>
   <programme start="20200115190000 -0400" stop="20200115193000 -0400" channel="CNN Chile">
@@ -4495,17 +4495,17 @@
     <desc lang="es">Toda la información, los pases y pretemporadas de los clubes más importantes del fútbol argentino(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-fox-gol-verano_p_m.jpg" />
   </programme>
-  <programme start="20200115160000 -0400" stop="20200115180000 -0400" channel="FOX Sports 1 HD">
+  <programme start="20200115160000 -0400" stop="20200115173000 -0400" channel="FOX Sports 1 HD">
     <title lang="es">Fox Sports Verano (?)</title>
     <sub-title lang="es">Fox Sports Verano</sub-title>
     <desc lang="es">Disfrutá de toda la programación de Fox Sports verano con toda la información, coberturas, entrevistas y más que no pueden faltar del deporte(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-fox-sports-verano_p_m.jpg" />
   </programme>
-  <programme start="20200115180000 -0400" stop="20200115200000 -0400" channel="FOX Sports 1 HD">
-    <title lang="es">Fox Sports Radio (?)</title>
-    <sub-title lang="es">Fox Sports Radio</sub-title>
-    <desc lang="es">El programa de radio al natural como si las cámaras no estuvieran ahí, logrando un formato televisivo original y novedoso. Debate, análisis, opinión e información futbolística al instante(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_periodistico-fox-sports-radio_p_m.jpg" />
+  <programme start="20200115173000 -0400" stop="20200115200000 -0400" channel="FOX Sports 1 HD">
+    <title lang="es">Highlights - Rally Dakar 2020 (?)</title>
+    <sub-title lang="es">Highlights - Rally Dakar 2020</sub-title>
+    <desc lang="es">Los mejores momentos de la carrera de rally raid más dura del mundo, el emblemático Rally Daka. Se correrá por primera vez en los desiertos de Arabia Saudita, en el Golfo Pérsico(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rally-highlights-rally-dakar-2020_p_m.jpg" />
   </programme>
   <programme start="20200115200000 -0400" stop="20200115230000 -0400" channel="FOX Sports 1 HD">
     <title lang="es">243: Whittaker vs. Adesanya (?)</title>
@@ -14644,17 +14644,17 @@
     <desc lang="es">mi.tv es una guía de TV con la programación de todos los canales nacionales e internacionales que quieres ver(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_la-entrevista-del-dia_p_m.jpg" />
   </programme>
-  <programme start="20200115171500 -0400" stop="20200115181500 -0400" channel="Canal 9 Bío Bío">
+  <programme start="20200115171500 -0400" stop="20200115180000 -0400" channel="Canal 9 Bío Bío">
     <title lang="es">Dulce patria (?)</title>
     <sub-title lang="es">Turismo</sub-title>
     <desc lang="es">Un recorrido por la cultura y los bellos parajes del sur de Chile(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_dulce-patria_p_m.jpg" />
   </programme>
-  <programme start="20200115181500 -0400" stop="20200115184500 -0400" channel="Canal 9 Bío Bío">
-    <title lang="es">En el set (?)</title>
-    <sub-title lang="es">En el set</sub-title>
-    <desc lang="es">Entrevistas a interesantes personajes del país(n)</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_p_m.jpg" />
+  <programme start="20200115180000 -0400" stop="20200115184500 -0400" channel="Canal 9 Bío Bío">
+    <title lang="es">Avance de noticias (?)</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Un adelanto de los hechos más importantes de la región y el país(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_avance-de-noticias_p_m.jpg" />
   </programme>
   <programme start="20200115184500 -0400" stop="20200115194500 -0400" channel="Canal 9 Bío Bío">
     <title lang="es">Lo mejor de Nuestra casa (?)</title>
