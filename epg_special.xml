@@ -14,10 +14,6 @@
     
     <url>http://www.directv.com.ar</url>
   <icon src="http://static.iptv-epg.com/ar/613DTSPlus.ar.png"/></channel>
-<channel id="beINLaLiga.es">
-    <display-name lang="es">beIN Sports LaLiga ES</display-name>
-    <url>http://www.movistarplus.es</url>
-  <icon src="http://static.iptv-epg.com/es/beINLaLiga.es.png"/></channel>
 <channel id="beINSports12.qa">
     <display-name lang="en">beIN Sports 12 QA</display-name>
     
@@ -53,6 +49,11 @@
     
     <url>http://www.bein.net</url>
   <icon src="http://static.iptv-epg.com/us/beINSportsEnEspanol.us.png"/></channel>
+<channel id="beINSportsLaLiga.us">
+    <display-name lang="en">beIN Sports LaLiga US</display-name>
+    
+    <url>http://www.bein.net</url>
+  <icon src="http://static.iptv-epg.com/us/beINSportsLaLiga.us.png"/></channel>
 <channel id="CBSTV.kr">
     <display-name lang="en">CBSTV KR</display-name>
     <url>http://www.skylife.co.kr</url>
@@ -11373,10 +11374,10 @@
   </programme><programme start="20200304224500 +0000" stop="20200304231500 +0000" channel="beINSports12.qa">
     <title lang="en">Serie A Full Impact 2019/20</title>
     <category lang="en">Leagues Summary</category>
-  </programme><programme start="20200304231500 +0000" stop="20200305000000 +0000" channel="beINSports12.qa">
+  </programme><programme start="20200304231500 +0000" stop="20200304231500 +0000" channel="beINSports12.qa">
     <title lang="en">This is Paris 2019/20</title>
     <category lang="en">Sports General</category>
-  </programme><programme start="20200304231500 +0000" stop="20200304231500 +0000" channel="beINSports12.qa">
+  </programme><programme start="20200304231500 +0000" stop="20200305000000 +0000" channel="beINSports12.qa">
     <title lang="en">This is Paris 2019/20</title>
     <category lang="en">Sports General</category>
   </programme><programme start="20200305000000 +0000" stop="20200305020000 +0000" channel="beINSports12.qa">
@@ -12625,4 +12626,80 @@
   </programme><programme start="20200309130000 +0000" stop="20200309133000 +0000" channel="beINSportsEnEspanol.us">
     <title lang="en">Programa pagado</title>
     <category lang="en">Shopping</category>
+  </programme><programme start="20200303030000 +0000" stop="20200303070000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200303070000 +0000" stop="20200303110000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200303110000 +0000" stop="20200303150000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200303150000 +0000" stop="20200303190000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200303190000 +0000" stop="20200303230000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200303230000 +0000" stop="20200304030000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200304030000 +0000" stop="20200304070000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200304070000 +0000" stop="20200304110000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200304110000 +0000" stop="20200304150000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200304150000 +0000" stop="20200304190000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200304190000 +0000" stop="20200304230000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200304230000 +0000" stop="20200305030000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200305030000 +0000" stop="20200305070000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200305070000 +0000" stop="20200305110000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200305110000 +0000" stop="20200305150000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200305150000 +0000" stop="20200305190000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200305190000 +0000" stop="20200305230000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200305230000 +0000" stop="20200306030000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200306030000 +0000" stop="20200306070000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200306070000 +0000" stop="20200306110000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200306110000 +0000" stop="20200306150000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200306150000 +0000" stop="20200306190000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200306190000 +0000" stop="20200306230000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200306230000 +0000" stop="20200307030000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200307030000 +0000" stop="20200307070000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200307070000 +0000" stop="20200307110000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200307110000 +0000" stop="20200307150000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200307150000 +0000" stop="20200307190000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200307190000 +0000" stop="20200307230000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200307230000 +0000" stop="20200308030000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200308030000 +0000" stop="20200308070000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200308070000 +0000" stop="20200308110000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200308110000 +0000" stop="20200308150000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200308150000 +0000" stop="20200308190000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200308190000 +0000" stop="20200308230000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200308230000 +0000" stop="20200309030000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200309030000 +0000" stop="20200309070000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
+  </programme><programme start="20200309070000 +0000" stop="20200309110000 +0000" channel="beINSportsLaLiga.us">
+    <title lang="en">No Event Scheduled</title>
   </programme></tv>
