@@ -14,6 +14,11 @@
     
     <url>http://www.directv.com.ar</url>
   <icon src="http://static.iptv-epg.com/ar/613DTSPlus.ar.png"/></channel>
+<channel id="beINSports12.qa">
+    <display-name lang="en">beIN Sports 12 QA</display-name>
+    
+    <url>http://www.bein.net</url>
+  <icon src="http://static.iptv-epg.com/qa/beINSports12.qa.png"/></channel>
 <channel id="beINSports4.us">
     <display-name lang="en">beIN Sports 4 US</display-name>
     
@@ -6360,6 +6365,342 @@
     <title lang="en">Béisbol mexicano: LMB</title>
     <category lang="en">Mapi</category>
     <icon src="https://tvguide1.cbsistatic.com/mediabin/galleries/sports/sportstype/6.png"/>
+  </programme><programme start="20200303011500 +0000" stop="20200303013000 +0000" channel="beINSports12.qa">
+    <title lang="en">SPFL Scottish Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200303013000 +0000" stop="20200303033000 +0000" channel="beINSports12.qa">
+    <title lang="en">Indiana Pacers vs San Antonio Spurs - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200303033000 +0000" stop="20200303040000 +0000" channel="beINSports12.qa">
+    <title lang="en">UCL Magazine 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200303040000 +0000" stop="20200303054500 +0000" channel="beINSports12.qa">
+    <title lang="en">Tottenham vs Wolverhampton Wanderers - English Premier League 2019/2020 Week 28</title>
+    <category lang="en">English Premier League</category>
+  </programme><programme start="20200303054500 +0000" stop="20200303064500 +0000" channel="beINSports12.qa">
+    <title lang="en">French Ligue 1 Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200303064500 +0000" stop="20200303083000 +0000" channel="beINSports12.qa">
+    <title lang="en">Middlesbrough vs Nottingham Forest - EFL-English Football League - Championship 2019/20</title>
+    <category lang="en">English League - Championship</category>
+  </programme><programme start="20200303083000 +0000" stop="20200303090000 +0000" channel="beINSports12.qa">
+    <title lang="en">Bundesliga Special 2019/20 - Best of February</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200303090000 +0000" stop="20200303100000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200303100000 +0000" stop="20200303120000 +0000" channel="beINSports12.qa">
+    <title lang="en">Indiana Pacers vs San Antonio Spurs - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200303120000 +0000" stop="20200303134500 +0000" channel="beINSports12.qa">
+    <title lang="en">Hull City vs Leeds United</title>
+    <sub-title lang="en">- EFL-English Football League - Championship 2019/20</sub-title>
+    <category lang="en">English League - Championship</category>
+  </programme><programme start="20200303134500 +0000" stop="20200303144500 +0000" channel="beINSports12.qa">
+    <title lang="en">French Ligue 1 Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200303144500 +0000" stop="20200303163000 +0000" channel="beINSports12.qa">
+    <title lang="en">Middlesbrough vs Nottingham Forest - EFL-English Football League - Championship 2019/20</title>
+    <category lang="en">English League - Championship</category>
+  </programme><programme start="20200303163000 +0000" stop="20200303183000 +0000" channel="beINSports12.qa">
+    <title lang="en">Dallas vs Miami - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200303183000 +0000" stop="20200303184500 +0000" channel="beINSports12.qa">
+    <title lang="en">SPFL Scottish Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200303184500 +0000" stop="20200303195000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200303195000 +0000" stop="20200303220000 +0000" channel="beINSports12.qa">
+    <title lang="en">West Brom vs Newcastle United - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200303220000 +0000" stop="20200303220000 +0000" channel="beINSports12.qa">
+    <title lang="en">Orlando Magic vs San Antonio Spurs - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200303220000 +0000" stop="20200304000000 +0000" channel="beINSports12.qa">
+    <title lang="en">Orlando Magic vs San Antonio Spurs - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200304000000 +0000" stop="20200304010000 +0000" channel="beINSports12.qa">
+    <title lang="en">French Ligue 1 Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304010000 +0000" stop="20200304030000 +0000" channel="beINSports12.qa">
+    <title lang="en">L.A.Clippers vs Oklahoma City Thunder - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200304030000 +0000" stop="20200304033000 +0000" channel="beINSports12.qa">
+    <title lang="en">Bundesliga Special 2019/20 - Best of February</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200304033000 +0000" stop="20200304043000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304043000 +0000" stop="20200304061500 +0000" channel="beINSports12.qa">
+    <title lang="en">Middlesbrough vs Nottingham Forest - EFL-English Football League - Championship 2019/20</title>
+    <category lang="en">English League - Championship</category>
+  </programme><programme start="20200304061500 +0000" stop="20200304080000 +0000" channel="beINSports12.qa">
+    <title lang="en">Napoli vs Torino - Italian Serie A 2019/2020 Week 26</title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme><programme start="20200304080000 +0000" stop="20200304090000 +0000" channel="beINSports12.qa">
+    <title lang="en">French Ligue 1 Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304090000 +0000" stop="20200304100000 +0000" channel="beINSports12.qa">
+    <title lang="en">Copa Sudamericana Highlights 2020</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304100000 +0000" stop="20200304115500 +0000" channel="beINSports12.qa">
+    <title lang="en">L.A.Clippers vs Oklahoma City Thunder - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200304115500 +0000" stop="20200304134500 +0000" channel="beINSports12.qa">
+    <title lang="en">West Bromwich Albion vs Newcastle United - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200304134500 +0000" stop="20200304153000 +0000" channel="beINSports12.qa">
+    <title lang="en">Hull City vs Leeds United</title>
+    <sub-title lang="en">- EFL-English Football League - Championship 2019/20</sub-title>
+    <category lang="en">English League - Championship</category>
+  </programme><programme start="20200304153000 +0000" stop="20200304163000 +0000" channel="beINSports12.qa">
+    <title lang="en">La Liga Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304163000 +0000" stop="20200304183000 +0000" channel="beINSports12.qa">
+    <title lang="en">L.A.Clippers vs Oklahoma City Thunder - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200304183000 +0000" stop="20200304190000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304190000 +0000" stop="20200304214500 +0000" channel="beINSports12.qa">
+    <title lang="en">Copa Libertadores Highlights 2020</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304214500 +0000" stop="20200304221500 +0000" channel="beINSports12.qa">
+    <title lang="en">Gary Neville's Soccerbox Series 3 - Robert Pires</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200304221500 +0000" stop="20200304224500 +0000" channel="beINSports12.qa">
+    <title lang="en">Carabao Cup Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304224500 +0000" stop="20200304231500 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200304231500 +0000" stop="20200304231500 +0000" channel="beINSports12.qa">
+    <title lang="en">This is Paris 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200304231500 +0000" stop="20200305000000 +0000" channel="beINSports12.qa">
+    <title lang="en">This is Paris 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200305000000 +0000" stop="20200305020000 +0000" channel="beINSports12.qa">
+    <title lang="en">Indiana Pacers</title>
+    <sub-title lang="en">vs Milwaukee Bucks - NBA Regular Season 2019/2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200305020000 +0000" stop="20200305030000 +0000" channel="beINSports12.qa">
+    <title lang="en">Copa Sudamericana Highlights 2020</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305030000 +0000" stop="20200305033000 +0000" channel="beINSports12.qa">
+    <title lang="en">Bundesliga Special 2019/20 - Best of February</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200305033000 +0000" stop="20200305051700 +0000" channel="beINSports12.qa">
+    <title lang="en">West Bromwich Albion vs Newcastle United - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200305051700 +0000" stop="20200305070000 +0000" channel="beINSports12.qa">
+    <title lang="en">Tottenham Hotspur vs Norwich City - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200305070000 +0000" stop="20200305073000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305073000 +0000" stop="20200305080000 +0000" channel="beINSports12.qa">
+    <title lang="en">EFL Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305080000 +0000" stop="20200305090000 +0000" channel="beINSports12.qa">
+    <title lang="en">Copa Sudamericana Highlights 2020</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305090000 +0000" stop="20200305100000 +0000" channel="beINSports12.qa">
+    <title lang="en">La Liga Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305100000 +0000" stop="20200305120000 +0000" channel="beINSports12.qa">
+    <title lang="en">Indiana Pacers</title>
+    <sub-title lang="en">vs Milwaukee Bucks - NBA Regular Season 2019/2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200305120000 +0000" stop="20200305134400 +0000" channel="beINSports12.qa">
+    <title lang="en">Tottenham Hotspur vs Norwich City - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200305134400 +0000" stop="20200305153000 +0000" channel="beINSports12.qa">
+    <title lang="en">West Bromwich Albion vs Newcastle United - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200305153000 +0000" stop="20200305160000 +0000" channel="beINSports12.qa">
+    <title lang="en">Gary Neville's Soccerbox Series 3 - Robert Pires</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200305160000 +0000" stop="20200305163000 +0000" channel="beINSports12.qa">
+    <title lang="en">Carabao Cup Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305163000 +0000" stop="20200305183000 +0000" channel="beINSports12.qa">
+    <title lang="en">Indiana Pacers</title>
+    <sub-title lang="en">vs Milwaukee Bucks - NBA Regular Season 2019/2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200305183000 +0000" stop="20200305200000 +0000" channel="beINSports12.qa">
+    <title lang="en">Sabalenka Surges vs Petra Kvitova WTA Qatar Total Open 2020 - Final's</title>
+    <category lang="en">Tennis - WTA</category>
+  </programme><programme start="20200305200000 +0000" stop="20200305210000 +0000" channel="beINSports12.qa">
+    <title lang="en">Copa Sudamericana Highlights 2020</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305210000 +0000" stop="20200305230000 +0000" channel="beINSports12.qa">
+    <title lang="en">L.A.Clippers vs Oklahoma City Thunder - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200305230000 +0000" stop="20200305230000 +0000" channel="beINSports12.qa">
+    <title lang="en">Copa Sudamericana Highlights 2020</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200305230000 +0000" stop="20200306000000 +0000" channel="beINSports12.qa">
+    <title lang="en">Copa Sudamericana Highlights 2020</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200306000000 +0000" stop="20200306003000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200306003000 +0000" stop="20200306010000 +0000" channel="beINSports12.qa">
+    <title lang="en">NBA Action 2019/20</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200306010000 +0000" stop="20200306030000 +0000" channel="beINSports12.qa">
+    <title lang="en">L.A.Clippers vs Houston Rockets - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200306030000 +0000" stop="20200306033000 +0000" channel="beINSports12.qa">
+    <title lang="en">EFL Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200306033000 +0000" stop="20200306051500 +0000" channel="beINSports12.qa">
+    <title lang="en">Tottenham Hotspur vs Norwich City - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200306051500 +0000" stop="20200306070000 +0000" channel="beINSports12.qa">
+    <title lang="en">West Bromwich Albion vs Newcastle United - Emirates FA Cup 2019/20</title>
+    <sub-title lang="en">Round 5</sub-title>
+    <category lang="en">FA Cup</category>
+  </programme><programme start="20200306070000 +0000" stop="20200306082000 +0000" channel="beINSports12.qa">
+    <title lang="en">Viva La Liga 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200306082000 +0000" stop="20200306083300 +0000" channel="beINSports12.qa">
+    <title lang="en">La Liga Zap 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200306083300 +0000" stop="20200306090000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200306090000 +0000" stop="20200306093000 +0000" channel="beINSports12.qa">
+    <title lang="en">NBA Action 2019/20</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200306093000 +0000" stop="20200306100000 +0000" channel="beINSports12.qa">
+    <title lang="en">La Liga World 2019/20</title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme><programme start="20200306100000 +0000" stop="20200306120000 +0000" channel="beINSports12.qa">
+    <title lang="en">L.A.Clippers vs Houston Rockets - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200306120000 +0000" stop="20200306123000 +0000" channel="beINSports12.qa">
+    <title lang="en">EPL Net Busters 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200306123000 +0000" stop="20200306150000 +0000" channel="beINSports12.qa">
+    <title lang="en">Sabalenka Surges vs Petra Kvitova WTA Qatar Total Open 2020 - Final's</title>
+    <category lang="en">Tennis - WTA</category>
+  </programme><programme start="20200306150000 +0000" stop="20200306170000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier Day 1 - Match 1</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200306170000 +0000" stop="20200306190000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier Day 1 - Match 2</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200306190000 +0000" stop="20200306193000 +0000" channel="beINSports12.qa">
+    <title lang="en">NBA Action 2019/20</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200306193000 +0000" stop="20200306220000 +0000" channel="beINSports12.qa">
+    <title lang="en">La Liga Zap 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200306220000 +0000" stop="20200306223000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200306223000 +0000" stop="20200307003000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier Day 1 - Match 1</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200306223000 +0000" stop="20200306223000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier Day 1 - Match 1</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200307003000 +0000" stop="20200307023000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier Day 1 - Match 2</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200307023000 +0000" stop="20200307030000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Full Impact 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200307030000 +0000" stop="20200307033000 +0000" channel="beINSports12.qa">
+    <title lang="en">NBA Action 2019/20</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200307033000 +0000" stop="20200307060000 +0000" channel="beINSports12.qa">
+    <title lang="en">Milwaukee Bucks vs L.A. Lakers - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200307060000 +0000" stop="20200307070000 +0000" channel="beINSports12.qa">
+    <title lang="en">Serie A Highlights 2019/20</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200307070000 +0000" stop="20200307084500 +0000" channel="beINSports12.qa">
+    <title lang="en">Marseille vs Amiens - French Ligue 1 2019/2020 Week 28</title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme><programme start="20200307084500 +0000" stop="20200307090000 +0000" channel="beINSports12.qa">
+    <title lang="en">La Liga Genuine 2019/20 - Real Betis</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200307090000 +0000" stop="20200307103000 +0000" channel="beINSports12.qa">
+    <title lang="en">EPL The Kelly &amp; Wrighty Show</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200307103000 +0000" stop="20200307110000 +0000" channel="beINSports12.qa">
+    <title lang="en">FA Cup Highlights 2019/20 - Round of 16</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200307110000 +0000" stop="20200307130000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier - Day 2 - Match 1</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200307130000 +0000" stop="20200307150000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier - Day 2 - Match 2</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200307150000 +0000" stop="20200307170000 +0000" channel="beINSports12.qa">
+    <title lang="en">Sheffield United vs Norwich City - English Premier League 2019/2020 Week 29</title>
+    <category lang="en">English Premier League</category>
+  </programme><programme start="20200307170000 +0000" stop="20200307210000 +0000" channel="beINSports12.qa">
+    <title lang="en">Milwaukee Bucks vs L.A. Lakers - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200307210000 +0000" stop="20200307213000 +0000" channel="beINSports12.qa">
+    <title lang="en">La Liga World 2019/20</title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme><programme start="20200307213000 +0000" stop="20200307220000 +0000" channel="beINSports12.qa">
+    <title lang="en">NBA Action 2019/20</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200307220000 +0000" stop="20200307220000 +0000" channel="beINSports12.qa">
+    <title lang="en">Houston Rockets vs Charlotte Hornets - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200307220000 +0000" stop="20200308003000 +0000" channel="beINSports12.qa">
+    <title lang="en">Houston Rockets vs Charlotte Hornets - NBA Regular Season 2019/2020</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200308003000 +0000" stop="20200308010000 +0000" channel="beINSports12.qa">
+    <title lang="en">AFC Champions League 2020 Highlights</title>
+    <category lang="en">Leagues Summary</category>
+  </programme><programme start="20200308010000 +0000" stop="20200308013000 +0000" channel="beINSports12.qa">
+    <title lang="en">NBA Action 2019/20</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200308013000 +0000" stop="20200308040000 +0000" channel="beINSports12.qa">
+    <title lang="en">Philadelphia 76ers</title>
+    <sub-title lang="en">vs Golden State Warriors - NBA Regular Season 2019/2020</sub-title>
+    <category lang="en">Basketball - NBA</category>
+  </programme><programme start="20200308040000 +0000" stop="20200308060000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier - Day 2 - Match 3</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200308060000 +0000" stop="20200308080000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier - Day 2 - Match 1</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200308080000 +0000" stop="20200308100000 +0000" channel="beINSports12.qa">
+    <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier - Day 2 - Match 2</title>
+    <category lang="en">Tennis</category>
+  </programme><programme start="20200308100000 +0000" stop="20200308115000 +0000" channel="beINSports12.qa">
+    <title lang="en">Angers vs Nantes - French Ligue 1 2019/2020 Week 28</title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme><programme start="20200308115000 +0000" stop="20200308140000 +0000" channel="beINSports12.qa">
+    <title lang="en">Ross County vs Rangers - Scottish Premiership</title>
+    <sub-title lang="en">2019/2020 SPFL</sub-title>
+    <category lang="en">Scottish Premier League</category>
+  </programme><programme start="20200308140000 +0000" stop="20200308160000 +0000" channel="beINSports12.qa">
+    <title lang="en">Internazionale vs Sassuolo - Italian Serie A 2019/2020 Week 27</title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme><programme start="20200308160000 +0000" stop="20200308170000 +0000" channel="beINSports12.qa">
+    <title lang="en">UEL MAGAZINE 2019/20</title>
+    <category lang="en">Sports General</category>
+  </programme><programme start="20200308170000 +0000" stop="20200308190000 +0000" channel="beINSports12.qa">
+    <title lang="en">Bologna vs Juventus - Italian Serie A 2019/2020 Week 27</title>
+    <category lang="en">Italian League - Serie A</category>
   </programme><programme start="20200303030000 +0000" stop="20200303070000 +0000" channel="beINSports4.us">
     <title lang="en">No Event Scheduled</title>
   </programme><programme start="20200303070000 +0000" stop="20200303110000 +0000" channel="beINSports4.us">
