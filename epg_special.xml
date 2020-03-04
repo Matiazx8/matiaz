@@ -49,11 +49,11 @@
     
     <url>http://www.bein.net</url>
   <icon src="http://static.iptv-epg.com/us/beINSportsEnEspanol.us.png"/></channel>
-<channel id="beINSportsLaLiga.us">
-    <display-name lang="en">beIN Sports LaLiga US</display-name>
+<channel id="beINSportsLaLiga.ca">
+    <display-name lang="en">beIN Sports LaLiga CA</display-name>
     
-    <url>http://www.bein.net</url>
-  <icon src="http://static.iptv-epg.com/us/beINSportsLaLiga.us.png"/></channel>
+    <url>http://www.bein.ca</url>
+  <icon src="http://static.iptv-epg.com/ca/beINSportsLaLiga.ca.png"/></channel>
 <channel id="DirectvSports.co">
     <display-name lang="es">Directv Sports CO</display-name>
     
@@ -64,6 +64,14 @@
     
     <url>http://www.directv.com.ec</url>
   <icon src="http://static.iptv-epg.com/ec/DirecTVSports610.ec.png"/></channel>
+<channel id="GolPeru.pe">
+    <display-name lang="es">GolPeru PE</display-name>
+    <url>http://www.movistarplay.com.pe</url>
+  <icon src="http://static.iptv-epg.com/pe/GolPeru.pe.png"/></channel>
+<channel id="MovistarDeportes.pe">
+    <display-name lang="es">Movistar Deportes PE</display-name>
+    <url>http://www.movistarplay.com.pe</url>
+  <icon src="http://static.iptv-epg.com/pe/MovistarDeportes.pe.png"/></channel>
 <channel id="TVCDeportes.mx">
     <display-name lang="en">TVC Deportes MX</display-name>
     <url>http://www.tvguide.com</url>
@@ -6068,6 +6076,1327 @@
       <value>NR</value>
     </rating>
   </programme>
+<programme start="20200303003000 +0000" stop="20200303010000 +0000" channel="GolPeru.pe">
+    <title lang="es">Antesala Liga1 Movistar : Sport Huancayo vs. Cusco FC - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfruta de toda la información previo al encuentro entre Sport Huancayo y Cusco FC, por la quinta fecha del Torneo Apertura del fútbol peruano</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/28/6281885_A674FD46726DB749.jpg"/>
+  </programme><programme start="20200303010000 +0000" stop="20200303030000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Sport Huancayo vs. Cusco FC - Torneo Apertura, Fecha 5 (02-03-2020)</title>
+    <desc lang="es">Sport Huancayo (13ro, 5 ptos.) busca un triunfo que corte una racha de tres fechas sin conocer de celebraciones, pero Cusco FC (17mo, 3 ptos.) va por una segunda victoria consecutiva que lo ayude a salir de los últimos puestos de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661751_4B8786B6D8F9815A.jpg"/>
+  </programme><programme start="20200303030000 +0000" stop="20200303040000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303040000 +0000" stop="20200303043000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303043000 +0000" stop="20200303050000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Alianza Lima vs. Deportivo Municipal - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Alianza Lima y Deportivo Municipal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303050000 +0000" stop="20200303060000 +0000" channel="GolPeru.pe">
+    <title lang="es">Programacion GOLPERU</title>
+    <desc lang="es">El canal GOLPERU nos trae lo mejor y más destacado del fútbol del campeonato peruano de primera, segunda y menores</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/22/6220350_DD8326FDE9A5D082.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303060000 +0000" stop="20200303070000 +0000" channel="GolPeru.pe">
+    <title lang="es">Programación GOL PERU</title>
+    <desc lang="es">Producciones especiales con lo mejor de nuestra programación en películas, series, entretenimiento, deportes, música y mucho más</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122054_31484CB25AFBBE4F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303070000 +0000" stop="20200303090000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : AD Cantolao vs. Atlético Grau - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Cantolao (10mo, 6 ptos.) busca un segundo triunfo consecutivo que lo acerque a la parte alta de la tabla, pero Atlético Grau (19no, 1 pto.) va por su primera victoria en el certamen que lo saque de los últimos puestos del torneo</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661692_FCCF04EF7B4F9764.jpg"/>
+  </programme><programme start="20200303090000 +0000" stop="20200303110000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : San Martín vs. Carlos Mannucci - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">San Martín (9no, 6 ptos.) busca un segundo triunfo consecutivo que lo mantenga escalando posiciones en la tabla, pero Carlos Mannucci (11ro, 5 ptos.) va por una victoria que corte una racha de tres fechas sin conocer de celebraciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661705_874EF61752428964.jpg"/>
+  </programme><programme start="20200303110000 +0000" stop="20200303130000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Sport Huancayo vs. Cusco FC - Torneo Apertura, Fecha 5 (02-03-2020)</title>
+    <desc lang="es">Sport Huancayo (13ro, 5 ptos.) busca un triunfo que corte una racha de tres fechas sin conocer de celebraciones, pero Cusco FC (17mo, 3 ptos.) va por una segunda victoria consecutiva que lo ayude a salir de los últimos puestos de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661751_4B8786B6D8F9815A.jpg"/>
+  </programme><programme start="20200303130000 +0000" stop="20200303140000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200303140000 +0000" stop="20200303150000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303150000 +0000" stop="20200303160000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200303160000 +0000" stop="20200303163000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Sport Huancayo vs. Cusco FC - Torneo Apertura, Fecha 5 (02-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Sport Huancayo y Cusco FC , por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303163000 +0000" stop="20200303170000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303170000 +0000" stop="20200303190000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200303190000 +0000" stop="20200303200000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303200000 +0000" stop="20200303203000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Alianza Lima vs. Deportivo Municipal - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Alianza Lima y Deportivo Municipal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303203000 +0000" stop="20200303210000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303210000 +0000" stop="20200303213000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Cienciano vs. Ayacucho FC - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cienciano y Ayacucho FC, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303213000 +0000" stop="20200303220000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : César Vallejo vs. Sporting Cristal - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre César Vallejo y Sporting Cristal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303220000 +0000" stop="20200303223000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : AD Cantolao vs. Atlético Grau - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cantolao y Atlético Grau, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303223000 +0000" stop="20200303230000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303230000 +0000" stop="20200304000000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200304000000 +0000" stop="20200304010000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304010000 +0000" stop="20200304013000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Sport Boys vs. Universitario - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Sport Boys y Universitario, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304013000 +0000" stop="20200304020000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304020000 +0000" stop="20200304030000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304030000 +0000" stop="20200304040000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200304040000 +0000" stop="20200304043000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : César Vallejo vs. Sporting Cristal - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre César Vallejo y Sporting Cristal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304043000 +0000" stop="20200304050000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304050000 +0000" stop="20200304070000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Alianza Lima vs. Deportivo Municipal - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">Alianza Lima (16to, 4 ptos.) busca un triunfo que lo ayude a salir de la parte baja de la tabla, pero Deportivo Municipal (14to, 4 ptos.) va por sus tres primeros puntos en el torneo luego de cuatro empates consecutivos</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661676_23C235083E7FAAEF.jpg"/>
+  </programme><programme start="20200304070000 +0000" stop="20200304090000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : UTC vs. FBC Melgar - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">UTC (6to, 7 ptos.) busca un triunfo que corte una racha de resultados irregulares, pero Melgar (8vo, 6 ptos.) va por tres puntos que cancelen las celebraciones en Cajamarca</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661548_EA36386E21361B28.jpg"/>
+  </programme><programme start="20200304090000 +0000" stop="20200304110000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Cienciano vs. Ayacucho FC - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Cienciano (7mo, 6 ptos.) busca un triunfo que lo acerque a los primeros puestos, pero Ayacucho FC (2do, 9 ptos.) va por una cuarta victoria consecutiva que lo meta a la pelea por el liderato del torneo</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661675_3F5FB516FEA682BE.jpg"/>
+  </programme><programme start="20200304110000 +0000" stop="20200304130000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Sport Boys vs. Universitario - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Sport Boys (5to, 7 ptos.) busca un segundo triunfo consecutivo que lo acerque a los primeros puestos de la tabla, pero Universitario (4to, 9 ptos.) va por tres puntos lo regresen a la pelea por el liderato torneo</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661771_E92F9D262BB64E89.jpg"/>
+  </programme><programme start="20200304130000 +0000" stop="20200304140000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200304140000 +0000" stop="20200304150000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304150000 +0000" stop="20200304160000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200304160000 +0000" stop="20200304163000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : César Vallejo vs. Sporting Cristal - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre César Vallejo y Sporting Cristal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304163000 +0000" stop="20200304170000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304170000 +0000" stop="20200304190000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200304190000 +0000" stop="20200304200000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304200000 +0000" stop="20200304203000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : AD Cantolao vs. Atlético Grau - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cantolao y Atlético Grau, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304203000 +0000" stop="20200304210000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304210000 +0000" stop="20200304213000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Sport Boys vs. Universitario - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Sport Boys y Universitario, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304213000 +0000" stop="20200304220000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Cienciano vs. Ayacucho FC - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cienciano y Ayacucho FC, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304220000 +0000" stop="20200304223000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : San Martín vs. Carlos Mannucci - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre San Martín y Carlos Mannucci, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304223000 +0000" stop="20200304230000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304230000 +0000" stop="20200305000000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200305000000 +0000" stop="20200305010000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305010000 +0000" stop="20200305013000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : César Vallejo vs. Sporting Cristal - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre César Vallejo y Sporting Cristal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305013000 +0000" stop="20200305020000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305020000 +0000" stop="20200305030000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305030000 +0000" stop="20200305040000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200305040000 +0000" stop="20200305043000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Alianza Lima vs. Deportivo Municipal - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Alianza Lima y Deportivo Municipal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305043000 +0000" stop="20200305050000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305050000 +0000" stop="20200305070000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Sport Boys vs. Universitario - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Sport Boys (5to, 7 ptos.) busca un segundo triunfo consecutivo que lo acerque a los primeros puestos de la tabla, pero Universitario (4to, 9 ptos.) va por tres puntos lo regresen a la pelea por el liderato torneo</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661771_E92F9D262BB64E89.jpg"/>
+  </programme><programme start="20200305070000 +0000" stop="20200305090000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Sport Huancayo vs. Cusco FC - Torneo Apertura, Fecha 5 (02-03-2020)</title>
+    <desc lang="es">Sport Huancayo (13ro, 5 ptos.) busca un triunfo que corte una racha de tres fechas sin conocer de celebraciones, pero Cusco FC (17mo, 3 ptos.) va por una segunda victoria consecutiva que lo ayude a salir de los últimos puestos de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661751_4B8786B6D8F9815A.jpg"/>
+  </programme><programme start="20200305090000 +0000" stop="20200305110000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : César Vallejo vs. Sporting Cristal - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">César Vallejo (12do, 5 ptos.) busca un segundo triunfo consecutivo que lo mantenga escalando posiciones en la tabla, pero Sporting Cristal (15to, 4 ptos.) va por tres puntos que corten una racha de dos fechas sin conocer de celebraciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661726_E3A2285984E4472C.jpg"/>
+  </programme><programme start="20200305110000 +0000" stop="20200305130000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : AD Cantolao vs. Atlético Grau - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Cantolao (10mo, 6 ptos.) busca un segundo triunfo consecutivo que lo acerque a la parte alta de la tabla, pero Atlético Grau (19no, 1 pto.) va por su primera victoria en el certamen que lo saque de los últimos puestos del torneo</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661692_FCCF04EF7B4F9764.jpg"/>
+  </programme><programme start="20200305130000 +0000" stop="20200305140000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200305140000 +0000" stop="20200305150000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305150000 +0000" stop="20200305160000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200305160000 +0000" stop="20200305163000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Cienciano vs. Ayacucho FC - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cienciano y Ayacucho FC, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305163000 +0000" stop="20200305170000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305170000 +0000" stop="20200305190000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200305190000 +0000" stop="20200305200000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305200000 +0000" stop="20200305203000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : AD Cantolao vs. Atlético Grau - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cantolao y Atlético Grau, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305203000 +0000" stop="20200305210000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305210000 +0000" stop="20200305213000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : César Vallejo vs. Sporting Cristal - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre César Vallejo y Sporting Cristal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305213000 +0000" stop="20200305220000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Sport Huancayo vs. Cusco FC - Torneo Apertura, Fecha 5 (02-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Sport Huancayo y Cusco FC , por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305220000 +0000" stop="20200305223000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Sport Boys vs. Universitario - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Sport Boys y Universitario, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305223000 +0000" stop="20200305230000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305230000 +0000" stop="20200306000000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200306000000 +0000" stop="20200306010000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306010000 +0000" stop="20200306013000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Alianza Lima vs. Deportivo Municipal - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Alianza Lima y Deportivo Municipal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306013000 +0000" stop="20200306020000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306020000 +0000" stop="20200306030000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306030000 +0000" stop="20200306040000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200306040000 +0000" stop="20200306043000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Sport Boys vs. Universitario - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Sport Boys y Universitario, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306043000 +0000" stop="20200306050000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306050000 +0000" stop="20200306070000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : César Vallejo vs. Sporting Cristal - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">César Vallejo (12do, 5 ptos.) busca un segundo triunfo consecutivo que lo mantenga escalando posiciones en la tabla, pero Sporting Cristal (15to, 4 ptos.) va por tres puntos que corten una racha de dos fechas sin conocer de celebraciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661726_E3A2285984E4472C.jpg"/>
+  </programme><programme start="20200306070000 +0000" stop="20200306090000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : San Martín vs. Carlos Mannucci - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">San Martín (9no, 6 ptos.) busca un segundo triunfo consecutivo que lo mantenga escalando posiciones en la tabla, pero Carlos Mannucci (11ro, 5 ptos.) va por una victoria que corte una racha de tres fechas sin conocer de celebraciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661705_874EF61752428964.jpg"/>
+  </programme><programme start="20200306090000 +0000" stop="20200306110000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Alianza Lima vs. Deportivo Municipal - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">Alianza Lima (16to, 4 ptos.) busca un triunfo que lo ayude a salir de la parte baja de la tabla, pero Deportivo Municipal (14to, 4 ptos.) va por sus tres primeros puntos en el torneo luego de cuatro empates consecutivos</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661676_23C235083E7FAAEF.jpg"/>
+  </programme><programme start="20200306110000 +0000" stop="20200306130000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : UTC vs. FBC Melgar - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">UTC (6to, 7 ptos.) busca un triunfo que corte una racha de resultados irregulares, pero Melgar (8vo, 6 ptos.) va por tres puntos que cancelen las celebraciones en Cajamarca</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6661548_EA36386E21361B28.jpg"/>
+  </programme><programme start="20200306130000 +0000" stop="20200306140000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200306140000 +0000" stop="20200306150000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306150000 +0000" stop="20200306160000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200306160000 +0000" stop="20200306163000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : AD Cantolao vs. Atlético Grau - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cantolao y Atlético Grau, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306163000 +0000" stop="20200306170000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306170000 +0000" stop="20200306190000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200306190000 +0000" stop="20200306200000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306200000 +0000" stop="20200306203000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Sport Huancayo vs. Cusco FC - Torneo Apertura, Fecha 5 (02-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Sport Huancayo y Cusco FC , por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306203000 +0000" stop="20200306210000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306210000 +0000" stop="20200306213000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Alianza Lima vs. Deportivo Municipal - Torneo Apertura, Fecha 5 (28-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Alianza Lima y Deportivo Municipal, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306213000 +0000" stop="20200306220000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : San Martín vs. Carlos Mannucci - Torneo Apertura, Fecha 5 (01-03-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre San Martín y Carlos Mannucci, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306220000 +0000" stop="20200306223000 +0000" channel="GolPeru.pe">
+    <title lang="es">Compacto de fútbol : Cienciano vs. Ayacucho FC - Torneo Apertura, Fecha 5 (29-02-2020)</title>
+    <desc lang="es">Disfrute de un resumen con los mejores momentos y goles del encuentro entre Cienciano y Ayacucho FC, por la quinta fecha de la Liga1 Movistar 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122114_AB082DF9B3453A69.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306223000 +0000" stop="20200306230000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306230000 +0000" stop="20200307000000 +0000" channel="GolPeru.pe">
+    <title lang="es">Gol Noticias</title>
+    <desc lang="es">Noticiero con los acontecimientos más importantes del fútbol nacional e internacional, con entrevistas e imágenes exclusivas sobre la actualidad del balompié mundial</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609830_A7C79BD0EE8CCCB1.jpg"/>
+  </programme><programme start="20200307000000 +0000" stop="20200307003000 +0000" channel="GolPeru.pe">
+    <title lang="es">Golreplay</title>
+    <desc lang="es">Disfrute de este compacto con los mejores momentos que se vivieron en los principales encuentros de fútbol a nivel nacional e internacional, con grandes anotaciones y buenas actuaciones</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6671475_A3897D2258756646.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200307003000 +0000" stop="20200307013000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200307013000 +0000" stop="20200307020000 +0000" channel="GolPeru.pe">
+    <title lang="es">Antesala Liga1 Movistar : Carlos Mannucci vs. Cienciano - Fecha 6</title>
+    <desc lang="es">Antesala con todos los pormenores previo a los encuentros de la Liga1, máxima categoría del fútbol peruano</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/28/6281885_A674FD46726DB749.jpg"/>
+  </programme><programme start="20200307020000 +0000" stop="20200307040000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Carlos Mannucci vs. Cienciano - Torneo Apertura, Fecha 6 (06-03-2020)</title>
+    <desc lang="es">Carlos Mannuci (13ro, 6 ptos.) busca un triunfo que corte una racha de cuatro fechas sin conocer de celebraciones, pero Cienciano (12do, 6 ptos.) va por tres puntos que cancelen las celebraciones en el Estadio Mansiche</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6592728_E9E32F96B9DE3FE3.jpg"/>
+  </programme><programme start="20200307040000 +0000" stop="20200307050000 +0000" channel="GolPeru.pe">
+    <title lang="es">Código Fútbol</title>
+    <desc lang="es">Un panel de expertos analiza y pone al debate los últimos acontecimientos de cada jornada y noticia del fútbol peruano e internacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6596380_FEDD9495F8722E8F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200307050000 +0000" stop="20200307070000 +0000" channel="GolPeru.pe">
+    <title lang="es">Liga1 Movistar : Carlos Mannucci vs. Cienciano - Torneo Apertura, Fecha 6 (06-03-2020)</title>
+    <desc lang="es">Carlos Mannuci (13ro, 6 ptos.) busca un triunfo que corte una racha de cuatro fechas sin conocer de celebraciones, pero Cienciano (12do, 6 ptos.) va por tres puntos que cancelen las celebraciones en el Estadio Mansiche [(82191)]</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6592728_E9E32F96B9DE3FE3.jpg"/>
+  </programme>
+<programme start="20200303000000 +0000" stop="20200303010000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Zona de Ataque</title>
+    <desc lang="es">Programa con el mejor análisis, resúmenes, entrevistas y notas especiales de lo último de la información de la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/46/6469168_C11755DB5BF8777D.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303010000 +0000" stop="20200303020000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6650524_2D4DD610E6CA405C.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303020000 +0000" stop="20200303020300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Arturo Yarasca</title>
+    <desc lang="es">El exmilitar, Arturo Yarasca, nos cuenta cómo superó un accidente en el VRAEM gracias a su familia, para ahora demostrarle a su hijo que sin importar lo que pase, puede salir adelante</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6668346_D15D352069E0480A.jpg"/>
+  </programme><programme start="20200303020300 +0000" stop="20200303030000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303030000 +0000" stop="20200303043000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 31 (02-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303043000 +0000" stop="20200303050000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303050000 +0000" stop="20200303053000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">La carne del domingo</title>
+    <desc lang="es">Disfruta de un programa que analiza al detalle cada partido, jugada, gol y polémica de la última jornada futbolística disputada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6508869_77C6D9E310B866C1.jpg"/>
+    <rating system="PE">
+      <value>18</value>
+    </rating>
+  </programme><programme start="20200303053000 +0000" stop="20200303070000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 31 (02-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303070000 +0000" stop="20200303080000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6650524_2D4DD610E6CA405C.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303080000 +0000" stop="20200303083000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 16 (13-08-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/44/6449092_088DE7D758E385D9.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303083000 +0000" stop="20200303090000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">La carne del domingo</title>
+    <desc lang="es">Disfruta de un programa que analiza al detalle cada partido, jugada, gol y polémica de la última jornada futbolística disputada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6508869_77C6D9E310B866C1.jpg"/>
+    <rating system="PE">
+      <value>18</value>
+    </rating>
+  </programme><programme start="20200303090000 +0000" stop="20200303103000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 31 (02-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303103000 +0000" stop="20200303120000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Después de todo</title>
+    <desc lang="es">Un panel de expertos analiza detalladamente lo ocurrido en cada fecha del fútbol local, internacional y con la selección nacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6508860_6AF10FE6DEA80499.jpg"/>
+  </programme><programme start="20200303120000 +0000" stop="20200303130000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303130000 +0000" stop="20200303130300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Micaela Ramírez</title>
+    <desc lang="es">Micaela Ramírez, nuestra joven promesa de tan solo 18 años nos cuenta cómo fueron sus inicios y cuáles son sus expectativas para el futuro dentro de la BMX</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/61/6614262_B256BA737BFDD9CE.jpg"/>
+  </programme><programme start="20200303130300 +0000" stop="20200303140000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6650524_2D4DD610E6CA405C.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303140000 +0000" stop="20200303143000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303143000 +0000" stop="20200303160000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 31 (02-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303160000 +0000" stop="20200303173000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Deportivo Alianza vs. Sport Real (2020-56)</title>
+    <desc lang="es">Campeonato de la máxima categoría del vóley peruano, donde los mejores equipos del país luchan fecha a fecha por consagrarse con el título de la temporada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200303173000 +0000" stop="20200303180000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">La carne del domingo</title>
+    <desc lang="es">Disfruta de un programa que analiza al detalle cada partido, jugada, gol y polémica de la última jornada futbolística disputada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6508869_77C6D9E310B866C1.jpg"/>
+    <rating system="PE">
+      <value>18</value>
+    </rating>
+  </programme><programme start="20200303180000 +0000" stop="20200303180300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Arturo Yarasca</title>
+    <desc lang="es">El exmilitar, Arturo Yarasca, nos cuenta cómo superó un accidente en el VRAEM gracias a su familia, para ahora demostrarle a su hijo que sin importar lo que pase, puede salir adelante</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6668346_D15D352069E0480A.jpg"/>
+  </programme><programme start="20200303180300 +0000" stop="20200303190000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303190000 +0000" stop="20200303203000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Después de todo</title>
+    <desc lang="es">Un panel de expertos analiza detalladamente lo ocurrido en cada fecha del fútbol local, internacional y con la selección nacional</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6508860_6AF10FE6DEA80499.jpg"/>
+  </programme><programme start="20200303203000 +0000" stop="20200303213000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Zona de Ataque</title>
+    <desc lang="es">Programa con el mejor análisis, resúmenes, entrevistas y notas especiales de lo último de la información de la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/46/6469168_C11755DB5BF8777D.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303213000 +0000" stop="20200303230000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 31 (02-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200303230000 +0000" stop="20200304000000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304000000 +0000" stop="20200304003000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">A solas con : Aldo Corzo</title>
+    <desc lang="es">Disfrute de una entrevista con el defensa de la selección peruana y de Universitario, Aldo Corzo, quién habla de su presente en las canchas</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/61/6612209_4B0E370991175F08.jpg"/>
+  </programme><programme start="20200304003000 +0000" stop="20200304010000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/16/6162473_4C1B133F4FCCA854.jpg"/>
+  </programme><programme start="20200304010000 +0000" stop="20200304013000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Futbol Lab</title>
+    <desc lang="es">Conoce todas las estadísticas y sigue los consejos de los expertos previo a los partidos más esperados del fútbol nacional e internacional, en un programa que te da las precisas para la apuesta de la fecha</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6664994_EF2633DF2B231720.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304013000 +0000" stop="20200304020000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304020000 +0000" stop="20200304020300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Micaela Ramírez</title>
+    <desc lang="es">Micaela Ramírez, nuestra joven promesa de tan solo 18 años nos cuenta cómo fueron sus inicios y cuáles son sus expectativas para el futuro dentro de la BMX</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/61/6614262_B256BA737BFDD9CE.jpg"/>
+  </programme><programme start="20200304020300 +0000" stop="20200304030000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304030000 +0000" stop="20200304043000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 32 (03-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304043000 +0000" stop="20200304050000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Futbol Lab</title>
+    <desc lang="es">Conoce todas las estadísticas y sigue los consejos de los expertos previo a los partidos más esperados del fútbol nacional e internacional, en un programa que te da las precisas para la apuesta de la fecha</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6664994_EF2633DF2B231720.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304050000 +0000" stop="20200304053000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Especial: Menotti</title>
+    <desc lang="es">El técnico campeón del mundo con Argentina en el Mundial del 78 nos cuenta de sus impresiones del fútbol moderno, las técnicas y tácticas, y cómo se encuentra el fútbol el día de hoy en un ambiente de grandes negocios</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/49/6491514_41B845FB802BD6BE.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304053000 +0000" stop="20200304070000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 32 (03-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304070000 +0000" stop="20200304080000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Especial Fútbol Femenino</title>
+    <desc lang="es">Especial que repasa los momentos de auge del fútbol femenino, su etapa en el olvido y su presente, donde busca igualdad y visibilidad</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6657377_169AA338D4635B55.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304080000 +0000" stop="20200304083000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6677471_13839DDF69B5EFE8.jpg"/>
+  </programme><programme start="20200304083000 +0000" stop="20200304090000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304090000 +0000" stop="20200304103000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 32 (03-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304103000 +0000" stop="20200304113000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Línea de tiempo: Brasil 2019 : El punto de partida</title>
+    <desc lang="es">Se cumplen 50 años del partido que puso a Perú en el mapa del fútbol mundial. ¿Cual fue la verdadera repercusión de eliminar a Argentina en la cancha de Boca Juniors? Repasamos la línea de tiempo del inicio del fútbol peruano y su mejor era</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6506459_681C023B773E3436.jpg"/>
+  </programme><programme start="20200304113000 +0000" stop="20200304120000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304120000 +0000" stop="20200304130000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304130000 +0000" stop="20200304130300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Arturo Yarasca</title>
+    <desc lang="es">El exmilitar, Arturo Yarasca, nos cuenta cómo superó un accidente en el VRAEM gracias a su familia, para ahora demostrarle a su hijo que sin importar lo que pase, puede salir adelante</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6668346_D15D352069E0480A.jpg"/>
+  </programme><programme start="20200304130300 +0000" stop="20200304140000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Zona de Ataque</title>
+    <desc lang="es">Programa con el mejor análisis, resúmenes, entrevistas y notas especiales de lo último de la información de la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/46/6469168_C11755DB5BF8777D.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304140000 +0000" stop="20200304143000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Futbol Lab</title>
+    <desc lang="es">Conoce todas las estadísticas y sigue los consejos de los expertos previo a los partidos más esperados del fútbol nacional e internacional, en un programa que te da las precisas para la apuesta de la fecha</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6664994_EF2633DF2B231720.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304143000 +0000" stop="20200304160000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 32 (03-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304160000 +0000" stop="20200304180000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : César Vallejo vs. Sport Real</title>
+    <desc lang="es">Disfrute del encuentro entre César Vallejo y Sport Real, por la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200304180000 +0000" stop="20200304180300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Micaela Ramírez</title>
+    <desc lang="es">Micaela Ramírez, nuestra joven promesa de tan solo 18 años nos cuenta cómo fueron sus inicios y cuáles son sus expectativas para el futuro dentro de la BMX</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/61/6614262_B256BA737BFDD9CE.jpg"/>
+  </programme><programme start="20200304180300 +0000" stop="20200304190000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304190000 +0000" stop="20200304210000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Regatas Lima vs. Alianza Lima</title>
+    <desc lang="es">Disfrute del encuentro entre Regatas Lima y Alianza Lima, por la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200304210000 +0000" stop="20200304213000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Especial: Menotti</title>
+    <desc lang="es">El técnico campeón del mundo con Argentina en el Mundial del 78 nos cuenta de sus impresiones del fútbol moderno, las técnicas y tácticas, y cómo se encuentra el fútbol el día de hoy en un ambiente de grandes negocios</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6654629_8335FD51DAFC901F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304213000 +0000" stop="20200304230000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 32 (03-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200304230000 +0000" stop="20200305010000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Deportivo Alianza vs. Regatas Lima</title>
+    <desc lang="es">Disfrute del encuentro entre Deportivo Alianza y Regatas Lima, por la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200305010000 +0000" stop="20200305030000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Géminis vs. Alianza Lima</title>
+    <desc lang="es">Disfrute del encuentro entre Géminis y Alianza Lima por la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200305030000 +0000" stop="20200305043000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 33 (04-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305043000 +0000" stop="20200305053000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6650524_2D4DD610E6CA405C.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305053000 +0000" stop="20200305070000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 33 (04-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305070000 +0000" stop="20200305073000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6677471_13839DDF69B5EFE8.jpg"/>
+  </programme><programme start="20200305073000 +0000" stop="20200305080000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305080000 +0000" stop="20200305090000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Especial Sudamericano Sub 20</title>
+    <desc lang="es">Disfrute de un programa especial con lo mejor del Sudamericano Sub 20, donde la selección ecuatoriana se consagró campeona del certamen</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6657377_169AA338D4635B55.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305090000 +0000" stop="20200305103000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 33 (04-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305103000 +0000" stop="20200305110000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305110000 +0000" stop="20200305113000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305113000 +0000" stop="20200305120000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6677471_13839DDF69B5EFE8.jpg"/>
+  </programme><programme start="20200305120000 +0000" stop="20200305130000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6680206_2C62167656E7AB08.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305130000 +0000" stop="20200305130300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Micaela Ramírez</title>
+    <desc lang="es">Micaela Ramírez, nuestra joven promesa de tan solo 18 años nos cuenta cómo fueron sus inicios y cuáles son sus expectativas para el futuro dentro de la BMX</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/61/6614262_B256BA737BFDD9CE.jpg"/>
+  </programme><programme start="20200305130300 +0000" stop="20200305140000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Al Ángulo vs. Medallistas</title>
+    <desc lang="es">Disfrute de un especial sobre el partido de fútbol que sostuvieron el equipo de 'Al Ángulo' y los medallistas de los Juegos Panamericanos Lima 2019</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6657377_169AA338D4635B55.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305140000 +0000" stop="20200305143000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305143000 +0000" stop="20200305153000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 33 (04-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305153000 +0000" stop="20200305180000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Circolo vs. Regatas Lima (2020-59)</title>
+    <desc lang="es">Campeonato de la máxima categoría del vóley peruano, donde los mejores equipos del país luchan fecha a fecha por consagrarse con el título de la temporada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200305180000 +0000" stop="20200305180300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Juan Pablo Varillas</title>
+    <desc lang="es">Nuestra principal raqueta nacional, Juan Pablo Varillas, nos cuenta sobre sus inicios y sus futuras expectativas con respecto a su carrera profesional, además de sus posibilidades de clasificación a Tokio 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6563496_AAB42DC2B2D840DE.jpg"/>
+  </programme><programme start="20200305180300 +0000" stop="20200305190000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305190000 +0000" stop="20200305210000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Jaamsa vs. Vallejo (2020-60)</title>
+    <desc lang="es">Campeonato de la máxima categoría del vóley peruano, donde los mejores equipos del país luchan fecha a fecha por consagrarse con el título de la temporada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200305210000 +0000" stop="20200305213000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">A solas con : Ricardo Gareca</title>
+    <desc lang="es">Disfrute de una entrevista con técnico de la selección peruana, Ricardo Gareca, quién habla del presente de la Blanquirroja y su próxima participación en las Clasificatorias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/62/6624658_10B67AA512A481A7.jpg"/>
+  </programme><programme start="20200305213000 +0000" stop="20200305230000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 33 (04-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200305230000 +0000" stop="20200306000000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306000000 +0000" stop="20200306010000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6680206_2C62167656E7AB08.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306010000 +0000" stop="20200306013000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Futbol Lab</title>
+    <desc lang="es">Conoce todas las estadísticas y sigue los consejos de los expertos previo a los partidos más esperados del fútbol nacional e internacional, en un programa que te da las precisas para la apuesta de la fecha</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6664994_EF2633DF2B231720.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306013000 +0000" stop="20200306020000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6677471_13839DDF69B5EFE8.jpg"/>
+  </programme><programme start="20200306020000 +0000" stop="20200306020300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Juan Pablo Varillas</title>
+    <desc lang="es">Nuestra principal raqueta nacional, Juan Pablo Varillas, nos cuenta sobre sus inicios y sus futuras expectativas con respecto a su carrera profesional, además de sus posibilidades de clasificación a Tokio 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6563496_AAB42DC2B2D840DE.jpg"/>
+  </programme><programme start="20200306020300 +0000" stop="20200306030000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306030000 +0000" stop="20200306033000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">A solas con : Jefferson Farfán</title>
+    <desc lang="es">Conversamos con Jefferson Farfán sobre lo que fue la clasificación al Mundial Rusia 2018, la lesión de la cual se recupera, sus ganas de seguir jugando al fútbol, las próximas clasificatorias, su futuro y el deseo de retirarse con la camiseta blanquiazul</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6592797_759AE79F22038ECB.jpg"/>
+  </programme><programme start="20200306033000 +0000" stop="20200306040000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">A solas con : Aldo Corzo</title>
+    <desc lang="es">Aldo Corzo nos cuenta sobre su momento futbolístico, su vida personal, sus sueños y que lo motiva a seguir jugando cada partido como si fuera el más importante de su vida. Conoce un poco más sobre uno de los referentes de Universitario de Deportes</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6681107_FFF270C67807D0BD.jpg"/>
+  </programme><programme start="20200306040000 +0000" stop="20200306050000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 34 (05-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306050000 +0000" stop="20200306053000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Especial: Menotti</title>
+    <desc lang="es">El técnico campeón del mundo con Argentina en el Mundial del 78 nos cuenta de sus impresiones del fútbol moderno, las técnicas y tácticas, y cómo se encuentra el fútbol el día de hoy en un ambiente de grandes negocios</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/49/6491514_41B845FB802BD6BE.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306053000 +0000" stop="20200306060000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6677471_13839DDF69B5EFE8.jpg"/>
+  </programme><programme start="20200306060000 +0000" stop="20200306070000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Sudamericano Sub-17</title>
+    <desc lang="es">Disfrute de un especial con los mejores momentos y goles del Sudamericano Sub-17 disputado territorio peruano</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6657377_169AA338D4635B55.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306070000 +0000" stop="20200306080000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6680206_2C62167656E7AB08.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306080000 +0000" stop="20200306083000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306083000 +0000" stop="20200306090000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306090000 +0000" stop="20200306100000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 34 (05-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306100000 +0000" stop="20200306103000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Especiales de Movistar Deportes : Especial: Menotti</title>
+    <desc lang="es">El técnico campeón del mundo con Argentina en el Mundial del 78 nos cuenta de sus impresiones del fútbol moderno, las técnicas y tácticas, y cómo se encuentra el fútbol el día de hoy en un ambiente de grandes negocios</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/65/6654629_8335FD51DAFC901F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306103000 +0000" stop="20200306110000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6677471_13839DDF69B5EFE8.jpg"/>
+  </programme><programme start="20200306110000 +0000" stop="20200306120000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Línea de tiempo: Brasil 2019 : El punto de partida</title>
+    <desc lang="es">Se cumplen 50 años del partido que puso a Perú en el mapa del fútbol mundial. ¿Cual fue la verdadera repercusión de eliminar a Argentina en la cancha de Boca Juniors? Repasamos la línea de tiempo del inicio del fútbol peruano y su mejor era</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6506459_681C023B773E3436.jpg"/>
+  </programme><programme start="20200306120000 +0000" stop="20200306130000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306130000 +0000" stop="20200306130300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Juan Pablo Varillas</title>
+    <desc lang="es">Nuestra principal raqueta nacional, Juan Pablo Varillas, nos cuenta sobre sus inicios y sus futuras expectativas con respecto a su carrera profesional, además de sus posibilidades de clasificación a Tokio 2020</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/56/6563496_AAB42DC2B2D840DE.jpg"/>
+  </programme><programme start="20200306130300 +0000" stop="20200306140000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6680206_2C62167656E7AB08.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306140000 +0000" stop="20200306143000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Futbol Lab</title>
+    <desc lang="es">Conoce todas las estadísticas y sigue los consejos de los expertos previo a los partidos más esperados del fútbol nacional e internacional, en un programa que te da las precisas para la apuesta de la fecha</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6664994_EF2633DF2B231720.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306143000 +0000" stop="20200306153000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 34 (05-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306153000 +0000" stop="20200306160000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306160000 +0000" stop="20200306180000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : San Martín vs. Sport Real (2020-61)</title>
+    <desc lang="es">Campeonato de la máxima categoría del vóley peruano, donde los mejores equipos del país luchan fecha a fecha por consagrarse con el título de la temporada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200306180000 +0000" stop="20200306180300 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Pequeñas grandes historias : Arturo Yarasca</title>
+    <desc lang="es">El exmilitar, Arturo Yarasca, nos cuenta cómo superó un accidente en el VRAEM gracias a su familia, para ahora demostrarle a su hijo que sin importar lo que pase, puede salir adelante</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/66/6668346_D15D352069E0480A.jpg"/>
+  </programme><programme start="20200306180300 +0000" stop="20200306190000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">#ModoSele</title>
+    <desc lang="es">Toda la actualidad del deporte nacional y mundial con especial énfasis en la selección peruana la encuentras en #ModoSele</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485992_7A6C94DF4C6A3AA4.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306190000 +0000" stop="20200306193000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306193000 +0000" stop="20200306200000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Perú Surf</title>
+    <desc lang="es">Sigue a nuestros surfers por las playas del Perú y del mundo, así como a las estrellas internacionales de la tabla</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/67/6677471_13839DDF69B5EFE8.jpg"/>
+  </programme><programme start="20200306200000 +0000" stop="20200306210000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">El fuera de lista</title>
+    <desc lang="es">Sigue mago Plomo mientras registra el antes, durante y después de cada partido con los más asombrosos trucos y sus divertidas ocurrencias</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6680206_2C62167656E7AB08.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306210000 +0000" stop="20200306213000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306213000 +0000" stop="20200306223000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 34 (05-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306223000 +0000" stop="20200306230000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200306230000 +0000" stop="20200307010000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Rebaza Acosta vs. César Vallejo</title>
+    <desc lang="es">Disfrute del encuentro entre Rebaza Acosta y César Vallejo, por la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200307010000 +0000" stop="20200307030000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Liga Nacional de Vóley Femenino : Circolo vs. Jaamsa</title>
+    <desc lang="es">Disfrute del encuentro entre Circolo y Jaamsa, por la Liga Nacional de Vóley Femenino</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/20/6203711_2D61B299C7EA8E47.jpg"/>
+  </programme><programme start="20200307030000 +0000" stop="20200307043000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al ángulo : Episodio 35 (06-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los últimos acontecimientos del fútbol mundial, tal y como solo ellos lo saben</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200307043000 +0000" stop="20200307050000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Full ruedas</title>
+    <desc lang="es">Programa resumen en el que encontrarás información acerca de diferentes competencias sobre ruedas (bicicleta, auto, moto, etc.)</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6120939_E6A26766FA6B666E.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200307050000 +0000" stop="20200307053000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">¿Dónde está Franco? : Episodio 13 (14-07-2019)</title>
+    <desc lang="es">Primer programa deportivo de viajes que nos lleva por diversas partes del mundo para vivir la experiencia de los mejores eventos desde otra mirada</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6403860_D71E3DFB864F152F.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme><programme start="20200307053000 +0000" stop="20200307070000 +0000" channel="MovistarDeportes.pe">
+    <title lang="es">Al &#xE1;ngulo : Episodio 35 (06-03-2020)</title>
+    <desc lang="es">Un panel de expertos analiza y debate sobre los &#xFA;ltimos acontecimientos del f&#xFA;tbol mundial, tal y como solo ellos lo saben [(82191)]</desc>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/48/6485951_48EBC7D285386232.jpg"/>
+    <rating system="PE">
+      <value>14</value>
+    </rating>
+  </programme>
 <programme start="20200303003000 +0000" stop="20200303010000 +0000" channel="TVCDeportes.mx">
     <title lang="en">Xtrainnings</title>
     <premiere/>
@@ -6609,10 +7938,10 @@
   </programme><programme start="20200306220000 +0000" stop="20200306223000 +0000" channel="beINSports12.qa">
     <title lang="en">Serie A Full Impact 2019/20</title>
     <category lang="en">Leagues Summary</category>
-  </programme><programme start="20200306223000 +0000" stop="20200307003000 +0000" channel="beINSports12.qa">
+  </programme><programme start="20200306223000 +0000" stop="20200306223000 +0000" channel="beINSports12.qa">
     <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier Day 1 - Match 1</title>
     <category lang="en">Tennis</category>
-  </programme><programme start="20200306223000 +0000" stop="20200306223000 +0000" channel="beINSports12.qa">
+  </programme><programme start="20200306223000 +0000" stop="20200307003000 +0000" channel="beINSports12.qa">
     <title lang="en">Germany vs Belarus - Davis Cup 2020 - Qualifier Day 1 - Match 1</title>
     <category lang="en">Tennis</category>
   </programme><programme start="20200307003000 +0000" stop="20200307023000 +0000" channel="beINSports12.qa">
@@ -6660,10 +7989,10 @@
   </programme><programme start="20200307213000 +0000" stop="20200307220000 +0000" channel="beINSports12.qa">
     <title lang="en">NBA Action 2019/20</title>
     <category lang="en">Basketball - NBA</category>
-  </programme><programme start="20200307220000 +0000" stop="20200307220000 +0000" channel="beINSports12.qa">
+  </programme><programme start="20200307220000 +0000" stop="20200308003000 +0000" channel="beINSports12.qa">
     <title lang="en">Houston Rockets vs Charlotte Hornets - NBA Regular Season 2019/2020</title>
     <category lang="en">Basketball - NBA</category>
-  </programme><programme start="20200307220000 +0000" stop="20200308003000 +0000" channel="beINSports12.qa">
+  </programme><programme start="20200307220000 +0000" stop="20200307220000 +0000" channel="beINSports12.qa">
     <title lang="en">Houston Rockets vs Charlotte Hornets - NBA Regular Season 2019/2020</title>
     <category lang="en">Basketball - NBA</category>
   </programme><programme start="20200308003000 +0000" stop="20200308010000 +0000" channel="beINSports12.qa">
@@ -7729,80 +9058,22 @@
   </programme><programme start="20200309130000 +0000" stop="20200309133000 +0000" channel="beINSportsEnEspanol.us">
     <title lang="en">Programa pagado</title>
     <category lang="en">Shopping</category>
-  </programme><programme start="20200303030000 +0000" stop="20200303070000 +0000" channel="beINSportsLaLiga.us">
+  </programme><programme start="20200303230000 +0000" stop="20200304030000 +0000" channel="beINSportsLaLiga.ca">
     <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200303070000 +0000" stop="20200303110000 +0000" channel="beINSportsLaLiga.us">
+    <category lang="en">Special</category>
+  </programme><programme start="20200304230000 +0000" stop="20200305030000 +0000" channel="beINSportsLaLiga.ca">
     <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200303110000 +0000" stop="20200303150000 +0000" channel="beINSportsLaLiga.us">
+    <category lang="en">Special</category>
+  </programme><programme start="20200305230000 +0000" stop="20200306030000 +0000" channel="beINSportsLaLiga.ca">
     <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200303150000 +0000" stop="20200303190000 +0000" channel="beINSportsLaLiga.us">
+    <category lang="en">Special</category>
+  </programme><programme start="20200306230000 +0000" stop="20200307030000 +0000" channel="beINSportsLaLiga.ca">
     <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200303190000 +0000" stop="20200303230000 +0000" channel="beINSportsLaLiga.us">
+    <category lang="en">Special</category>
+  </programme><programme start="20200307230000 +0000" stop="20200308030000 +0000" channel="beINSportsLaLiga.ca">
     <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200303230000 +0000" stop="20200304030000 +0000" channel="beINSportsLaLiga.us">
+    <category lang="en">Special</category>
+  </programme><programme start="20200308220000 +0000" stop="20200309020000 +0000" channel="beINSportsLaLiga.ca">
     <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200304030000 +0000" stop="20200304070000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200304070000 +0000" stop="20200304110000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200304110000 +0000" stop="20200304150000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200304150000 +0000" stop="20200304190000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200304190000 +0000" stop="20200304230000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200304230000 +0000" stop="20200305030000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200305030000 +0000" stop="20200305070000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200305070000 +0000" stop="20200305110000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200305110000 +0000" stop="20200305150000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200305150000 +0000" stop="20200305190000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200305190000 +0000" stop="20200305230000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200305230000 +0000" stop="20200306030000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200306030000 +0000" stop="20200306070000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200306070000 +0000" stop="20200306110000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200306110000 +0000" stop="20200306150000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200306150000 +0000" stop="20200306190000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200306190000 +0000" stop="20200306230000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200306230000 +0000" stop="20200307030000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200307030000 +0000" stop="20200307070000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200307070000 +0000" stop="20200307110000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200307110000 +0000" stop="20200307150000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200307150000 +0000" stop="20200307190000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200307190000 +0000" stop="20200307230000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200307230000 +0000" stop="20200308030000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200308030000 +0000" stop="20200308070000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200308070000 +0000" stop="20200308110000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200308110000 +0000" stop="20200308150000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200308150000 +0000" stop="20200308190000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200308190000 +0000" stop="20200308230000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200308230000 +0000" stop="20200309030000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200309030000 +0000" stop="20200309070000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
-  </programme><programme start="20200309070000 +0000" stop="20200309110000 +0000" channel="beINSportsLaLiga.us">
-    <title lang="en">No Event Scheduled</title>
+    <category lang="en">Special</category>
   </programme></tv>
