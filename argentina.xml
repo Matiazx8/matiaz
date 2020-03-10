@@ -6,127 +6,127 @@
 		<display-name>TELEFE</display-name>
 		<display-name>123 TELEFE</display-name>
 		<display-name>123</display-name>
-		<display-name>Telefe</display-name>
+		<display-name>Telefe (AR)</display-name>
 	</channel>
 	<channel id="I206.5114.tvguide.com">
 		<display-name>WARNER</display-name>
 		<display-name>206 WARNER</display-name>
 		<display-name>206</display-name>
-		<display-name>Warner Channel (Argentina)</display-name>
+		<display-name>Warner Channel (AR)</display-name>
 	</channel>
 	<channel id="I207.5111.tvguide.com">
 		<display-name>A&amp;E</display-name>
 		<display-name>207 A&amp;E</display-name>
 		<display-name>207</display-name>
-		<display-name>A&amp;E (Argentina)</display-name>
+		<display-name>A&amp;E (AR)</display-name>
 	</channel>
 	<channel id="I213.58465.tvguide.com">
 		<display-name>TNTSERIE</display-name>
 		<display-name>213 TNTSERIE</display-name>
 		<display-name>213</display-name>
-		<display-name>TNT Series SUR SD</display-name>
+		<display-name>TNT Series (AR)</display-name>
 	</channel>
 	<channel id="I269.24206.tvguide.com">
 		<display-name>QUIERO</display-name>
 		<display-name>269 QUIERO</display-name>
 		<display-name>269</display-name>
-		<display-name>Quiero Música</display-name>
+		<display-name>Quiero Música (AR)</display-name>
 	</channel>
 	<channel id="I312.9375.tvguide.com">
 		<display-name>DISNEY</display-name>
 		<display-name>312 DISNEY</display-name>
 		<display-name>312</display-name>
-		<display-name>Disney en Español (South Feed)</display-name>
+		<display-name>Disney Channel(AR)</display-name>
 	</channel>
 	<channel id="I518.28221.tvguide.com">
 		<display-name>SPACE</display-name>
 		<display-name>518 SPACE</display-name>
 		<display-name>518</display-name>
-		<display-name>Space (Panamericano)</display-name>
+		<display-name>Space (AR)</display-name>
 	</channel>
 	<channel id="I604.3795.tvguide.com">
 		<display-name>FSA</display-name>
 		<display-name>604 FSA</display-name>
 		<display-name>604</display-name>
-		<display-name>Fox Sports Latin America (Southern Feed - Premium)</display-name>
+		<display-name>Fox Sports Premium (AR)</display-name>
 	</channel>
 	<channel id="I605.78254.tvguide.com">
 		<display-name>FOXSP</display-name>
 		<display-name>605 FOXSP</display-name>
 		<display-name>605</display-name>
-		<display-name>Fox Sports Argentina (Cono Sur)</display-name>
+		<display-name>Fox Sports (AR)</display-name>
 	</channel>
 	<channel id="I1608.52343.tvguide.com">
 		<display-name>FOXSP2HD</display-name>
 		<display-name>1608 FOXSP2HD</display-name>
 		<display-name>1608</display-name>
-		<display-name>Fox Sports 2 HDTV Latin America</display-name>
+		<display-name>Fox Sports 2 (AR)</display-name>
 	</channel>
 	<channel id="I621.56312.tvguide.com">
 		<display-name>ESPNS</display-name>
 		<display-name>621 ESPNS</display-name>
 		<display-name>621</display-name>
-		<display-name>ESPN Latin South Sur</display-name>
+		<display-name>ESPN (AR)</display-name>
 	</channel>
 	<channel id="I623.59872.tvguide.com">
 		<display-name>ESPN2-HD</display-name>
 		<display-name>623 ESPN2-HD</display-name>
 		<display-name>623</display-name>
-		<display-name>ESPN 2 Central America HDTV (Latin America - non Mexico)</display-name>
+		<display-name>ESPN 2 (AR)</display-name>
 	</channel>
 	<channel id="I626.33879.tvguide.com">
 		<display-name>ESPN3</display-name>
 		<display-name>626 ESPN3</display-name>
 		<display-name>626</display-name>
-		<display-name>ESPN 3 South (Latin America)</display-name>
+		<display-name>ESPN 3 (AR)</display-name>
 	</channel>
 	<channel id="I730.9716.tvguide.com">
 		<display-name>NGC</display-name>
 		<display-name>730 NGC</display-name>
 		<display-name>730</display-name>
-		<display-name>National Geographic Channel (PAL / Argentina)</display-name>
+		<display-name>National Geographic (AR)</display-name>
 	</channel>
 	<channel id="I774.5058.tvguide.com">
 		<display-name>TVCHILE</display-name>
 		<display-name>774 TVCHILE</display-name>
 		<display-name>774</display-name>
-		<display-name>TV Chile (TVN Internacional)</display-name>
+		<display-name>TV Chile (CL)</display-name>
 	</channel>
 	<channel id="I629.5059.tvguide.com">
 		<display-name>TYC</display-name>
 		<display-name>629 TYC</display-name>
 		<display-name>629</display-name>
-		<display-name>Torneos y Competencias (Argentina)</display-name>
+		<display-name>TyC Sports (AR)</display-name>
 	</channel>
 	<channel id="I716.9651.tvguide.com">
 		<display-name>TN</display-name>
 		<display-name>716 TN</display-name>
 		<display-name>716</display-name>
-		<display-name>TN (Todo Noticias) Argentina</display-name>
+		<display-name>Todo Noticias (AR)</display-name>
 	</channel>
 	<channel id="I775.12270.tvguide.com">
 		<display-name>NUTELE</display-name>
 		<display-name>775 NUTELE</display-name>
 		<display-name>775</display-name>
-		<display-name>RCN Nuestra Tele</display-name>
+		<display-name>RCN Internacional (CO)</display-name>
 	</channel>
 	<channel id="I772.12931.tvguide.com">
 		<display-name>CRC.INT</display-name>
 		<display-name>772 CRC.INT</display-name>
 		<display-name>772</display-name>
-		<display-name>Caracol TV Internacional</display-name>
+		<display-name>Caracol TV Internacional (CO)</display-name>
 	</channel>
 	<channel id="I1644.22615.tvguide.com">
 		<display-name>GARAG</display-name>
 		<display-name>1644 GARAG</display-name>
 		<display-name>1644</display-name>
-		<display-name>El Garage TV - South (Latin America)</display-name>
+		<display-name>El Garage TV (AR)</display-name>
 	</channel>
 	<channel id="I303.36482.tvguide.com">
 		<display-name>PAKAPAKA</display-name>
 		<display-name>303 PAKAPAKA</display-name>
 		<display-name>303</display-name>
-		<display-name>Pakapaka</display-name>
+		<display-name>Pakapaka (AR)</display-name>
 	</channel>
     <programme start="20200310143000 +0000" stop="20200310160000 +0000" channel="I123.3963.tvguide.com">
 		<title lang="en">El Precio Justo</title>
