@@ -1,5 +1,5 @@
-  <?xml version="1.0" encoding="UTF-8"?>
-  <!DOCTYPE tv SYSTEM "xmltv.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
   
 <tv source-info-name="tvguide" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
     <channel id="I123.3963.tvguide.com">
